@@ -17,7 +17,10 @@ public:
             if(mp.find(i) == mp.end()) {
                 miss =  i;
             }
-            if(mp[i] == 2) ans.push_back(i);
+            if(mp[i] == 2) {
+                ans.push_back(i);
+                if(miss) break;
+            } 
         }
 
         ans.push_back(miss);
