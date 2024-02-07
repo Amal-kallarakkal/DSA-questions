@@ -1,3 +1,10 @@
+static auto speedup = []() {
+    ios_base::sync_with_stdio(false);
+    cout.tie(NULL);
+    cin.tie(NULL);
+    return NULL;
+}();
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
