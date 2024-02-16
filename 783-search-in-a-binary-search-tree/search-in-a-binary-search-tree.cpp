@@ -15,11 +15,7 @@ public:
 
         //   TreeNode* temp = root;
 
-        if(root == NULL)  {
-            return NULL;
-        }
-
-        if(root->val == val) {
+        if(root == NULL || root->val == val)  {
             return root;
         } else if(root->val > val) {
             //   left subtree
