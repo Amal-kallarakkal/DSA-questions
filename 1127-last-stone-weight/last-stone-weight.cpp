@@ -1,25 +1,20 @@
 class Solution {
 public:
-    int lastStoneWeight(vector<int>& stones) {
-        int ans = 0;
-        
+    int lastStoneWeight(std::vector<int>& stones) {
+        priority_queue<int> maxHeap(stones.begin(), stones.end());
 
-        while(stones.size() >1) {
-            sort(stones.begin(), stones.end());
-            int n = stones.size();
-            if(stones[n-1] == stones[n-2]) {
-                stones.pop_back();
-                stones.pop_back();
-            } else {
-                int diff = (stones[n-1] - stones[n-2]);
-                stones.pop_back();
-                stones.pop_back();
-                stones.push_back(diff);
+        while (maxHeap.size() > 1) {
+            int stone1 = maxHeap.top();
+            maxHeap.pop();
+            int stone2 = maxHeap.top();
+            maxHeap.pop();
+
+            if (stone1 != stone2) {
+                int diff = stone1 - stone2;
+                maxHeap.push(diff);
             }
         }
 
-        if(stones.size()) ans = stones[0];
-
-        return ans;
+        return maxHeap.empty() ? 0 : maxHeap.top();
     }
 };
