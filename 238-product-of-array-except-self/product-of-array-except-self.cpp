@@ -8,11 +8,11 @@ public:
         curr *= nums[i-1];
         output[i] = curr;
        }
-       curr = 1;
+       int curr2 = 1;
 
        for(int i = n-2; i >= 0 ; i--) {
-        curr *= nums[i+1];
-        output[i] *= curr;         
+        curr2 *= nums[i+1];
+        output[i] *= curr2;         
        }
 
 
