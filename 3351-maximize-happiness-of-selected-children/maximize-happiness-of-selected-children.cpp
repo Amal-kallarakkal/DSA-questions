@@ -8,7 +8,7 @@ public:
         sort(happiness.begin(), happiness.end());
 
         for(int i = n-1 ; i >= 0; i--) {
-            if(happiness[i] > diff && k) sum += happiness[i] - diff;
+            if(k && happiness[i] > diff) sum += happiness[i] - diff;
             else break;
             diff++;
             k--;
