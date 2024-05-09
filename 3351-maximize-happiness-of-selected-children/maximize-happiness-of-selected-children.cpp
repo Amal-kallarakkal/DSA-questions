@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long maximumHappinessSum(vector<int>& happiness, int k) {
+        ios::sync_with_stdio(0);
         long long sum = 0;
         long long diff = 0;
         int n = happiness.size();
