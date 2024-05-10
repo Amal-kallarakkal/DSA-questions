@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
+        ios::sync_with_stdio(0);
         vector<int> ans(2);
         map<double,pair<int, int>> mp;
 
@@ -13,13 +14,11 @@ public:
         int indx = 1;
         for(auto x : mp) {
             if(indx == k) {
-                ans[0] = x.second.first;
-                ans[1] = x.second.second;
-            } 
-            else if(indx > k) break;
-            indx++;
+                    return {x.second.first, x.second.second};
+            }
+            indx++;             
         }
 
-        return ans;
+       return ans;
     }
 };
