@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> largestLocal(vector<vector<int>>& grid) {
+        ios::sync_with_stdio(0);
         int rows = grid.size() - 2;
         int column = grid[0].size() - 2;
         vector<vector<int>> res(rows, vector<int>(column));
