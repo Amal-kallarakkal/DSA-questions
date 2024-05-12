@@ -1,24 +1,21 @@
 class Solution {
 public:
     vector<vector<int>> largestLocal(vector<vector<int>>& grid) {
-        ios::sync_with_stdio(0);
-        int n = grid.size() - 2;
-        vector<vector<int>> res(n, vector<int>(n));
+        int n = grid.size();
+        vector<vector<int>> maxLocal(n - 2, vector<int>(n - 2));
 
-        for(int i = 0 ; i < n ; i++) {
-            for(int j = 0 ; j < n; j++) {
-                int maxi = grid[i][j];
-                for(int a = i; a< i+3; a++) {
-                    
-                    for(int b = j; b< j+3; b++) {
-                        maxi = max(maxi, grid[a][b]);
+        for (int i = 0; i < n - 2; ++i) {
+            for (int j = 0; j < n - 2; ++j) {
+                int max = 0;
+                for (int k = i; k < i + 3; ++k) {
+                    for (int l = j; l < j + 3; ++l) {
+                        max = std::max(max, grid[k][l]);
                     }
                 }
-                res[i][j] = maxi;
+                maxLocal[i][j] = max;
             }
-
         }
 
-        return res;
+        return maxLocal;
     }
 };
