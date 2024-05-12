@@ -7,7 +7,7 @@ public:
 
         for(int i = 0 ; i < rows ; i++) {
             for(int j = 0 ; j < column; j++) {
-                int maxi = 0;
+                int maxi = grid[i][j];
                 for(int a = i; a< i+3; a++) {
                     
                     for(int b = j; b< j+3; b++) {
