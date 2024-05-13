@@ -2,6 +2,7 @@ class Solution {
 public:
     int matrixScore(vector<vector<int>>& grid) {
 
+        ios::sync_with_stdio(0);
         int row = grid.size();
         int col = grid[0].size();
         // row flip
@@ -22,11 +23,12 @@ public:
                 for(int i = 0; i < row; i++) grid[i][j] = !grid[i][j];
             }
         }
+
         int sum = 0;
-         for(int i = 0 ; i< row; i++) {
-             for(int j = 0 ; j< col; j++) sum += grid[i][j]*pow(2,col-1 -j);
-             cout<<"sum: "<<sum<<endl;
-         }         
+        for(int i = 0 ; i< row; i++)
+            for(int j = 0 ; j< col; j++) sum += grid[i][j]*pow(2,col-1 -j);
+             
+               
                
         return sum;
     }
