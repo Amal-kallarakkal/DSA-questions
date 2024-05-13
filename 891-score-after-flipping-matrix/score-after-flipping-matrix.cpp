@@ -18,7 +18,7 @@ public:
             for(int i = 0; i < row; i++) {
                 if(grid[i][j] == 1) cnt1++;
             }
-            if(cnt1 <= row/2) {
+            if(cnt1 <= row>>1) {
                 cout<<"cnt1 :"<<cnt1<<endl;
                 for(int i = 0; i < row; i++) grid[i][j] = !grid[i][j];
             }
