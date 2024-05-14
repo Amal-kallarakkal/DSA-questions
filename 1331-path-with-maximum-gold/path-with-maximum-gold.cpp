@@ -38,6 +38,8 @@ public:
         visited[i][j] = 0;
     }
     int getMaximumGold(vector<vector<int>>& grid) {
+        ios::sync_with_stdio(0);
+
         int row = grid.size();
         int col = grid[0].size();
 
