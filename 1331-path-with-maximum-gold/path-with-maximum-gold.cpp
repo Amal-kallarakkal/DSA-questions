@@ -2,7 +2,7 @@ class Solution {
 public:
 
     void solve(int i,int j, vector<vector<int>>& grid, vector<vector<int>>& visited, int &maxi, int &max_ans) {
-        if(grid[i][j] == 0) return ;
+        // if(grid[i][j] == 0) return ;
 
         int row = grid.size();
         int col = grid[0].size();
