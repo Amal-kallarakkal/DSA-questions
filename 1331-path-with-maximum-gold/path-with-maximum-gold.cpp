@@ -50,7 +50,7 @@ public:
         for(int i = 0 ; i < row; i++) {
             int maxi = 0;
             for(int j = 0; j < col ;j++) {
-                solve(i, j, grid, visited,maxi, max_ans);
+               if(grid[i][j]) solve(i, j, grid, visited,maxi, max_ans);
             }            
         }
 
