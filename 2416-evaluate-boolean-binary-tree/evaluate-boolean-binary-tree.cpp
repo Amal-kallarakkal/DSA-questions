@@ -12,6 +12,7 @@
 class Solution {
 public:
     bool evaluateTree(TreeNode* root) {
+        ios::sync_with_stdio(0);
         if(root == NULL) return NULL;
         if(root->val == 0) return false;
         if(root->val == 1) return true;
