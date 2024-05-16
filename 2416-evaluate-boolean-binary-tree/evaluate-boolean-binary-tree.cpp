@@ -17,14 +17,9 @@ public:
         if(root->val == 0) return false;
         if(root->val == 1) return true;
 
-        int sum = 0;
+        if(root->val == 2) return  evaluateTree(root->left) | evaluateTree(root->right);
+        else return evaluateTree(root->left) & evaluateTree(root->right);
 
-        int left = evaluateTree(root->left);
-        int right = evaluateTree(root->right);
-
-        if(root->val == 2) sum = left + right;
-        else sum = left*right;
-
-        return sum? true: false;
+        return false;
     }
 };
