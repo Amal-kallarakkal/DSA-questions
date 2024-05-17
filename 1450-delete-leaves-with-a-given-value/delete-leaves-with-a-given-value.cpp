@@ -12,6 +12,7 @@
 class Solution {
 public:
     TreeNode* removeLeafNodes(TreeNode* root, int target) {
+        ios::sync_with_stdio(0);
         if(root == NULL) return NULL;
 
         root->left = removeLeafNodes(root->left, target);
