@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long maximumValueSum(vector<int>& v, int k, vector<vector<int>>& edges) {
+        ios::sync_with_stdio(0);
         long long total = accumulate(v.begin(), v.end(), 0ll);
         
         long long total_diff = 0;
