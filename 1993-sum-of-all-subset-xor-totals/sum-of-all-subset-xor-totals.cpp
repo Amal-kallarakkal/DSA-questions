@@ -5,20 +5,17 @@ public:
 
         if(i >= nums.size()) return Xor;
 
-        // excluding 
-        
+        // excluding         
         int exc = solve(nums, i + 1, Xor);
-        cout<<"excluding "<<nums[i]<<": "<<exc<<endl;;
-
+       
         // including        
         Xor = Xor xor nums[i];        
         int inc = solve(nums, i + 1, Xor);
-        cout<<"including "<<nums[i]<<": "<<inc<<endl;
         
         return inc + exc;
     }
     int subsetXORSum(vector<int>& nums) {
-      
+        ios::sync_with_stdio(0);
         int i = 0;
         int Xor = 0;
         int Xor_sum = solve(nums,i, Xor);
