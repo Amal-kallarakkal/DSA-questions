@@ -21,7 +21,7 @@ public:
     }
 
     int beautifulSubsets(vector<int>& nums, int k) {
-        // ios::sync_with_stdio(0);
+        ios::sync_with_stdio(0);
 
         int n = nums.size();
         // sort(nums.begin(), nums.end());
