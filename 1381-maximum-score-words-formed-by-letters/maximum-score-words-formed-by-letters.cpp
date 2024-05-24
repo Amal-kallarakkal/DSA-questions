@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int idx, vector<string>& words, map<char, int> &mp,  map<char, int> &ltr, int ans){
+    int solve(int idx, vector<string>& words, map<char, int> &mp,  map<char, int> &ltr, int &ans){
 
         if(idx >= words.size()) return ans;
 
