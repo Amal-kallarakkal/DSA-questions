@@ -21,6 +21,7 @@ public:
     }
 
     vector<string> wordBreak(string s, vector<string>& wordDict) {
+        ios::sync_with_stdio(0);
         vector<string> ans;
         map<string, int> mp;
         for(auto x: wordDict) {
