@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void solve(int idx, string &s,  map<string, int> &mp, vector<string> &ans, string output) {
+    void solve(int idx, string &s,  unordered_map<string, int> &mp, vector<string> &ans, string output) {
         
         if(idx >= s.size()) {
             output.pop_back();
@@ -23,7 +23,7 @@ public:
     vector<string> wordBreak(string s, vector<string>& wordDict) {
         ios::sync_with_stdio(0);
         vector<string> ans;
-        map<string, int> mp;
+        unordered_map<string, int> mp;
         for(auto x: wordDict) {
             mp[x]++;
         }
