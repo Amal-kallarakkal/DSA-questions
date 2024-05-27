@@ -23,7 +23,7 @@ public:
     }
 
     int specialArray(vector<int>& nums) {
-
+        ios::sync_with_stdio(0);
         sort(nums.begin(), nums.end());
 
         return binarySearch(nums,0,nums[nums.size() - 1]);
