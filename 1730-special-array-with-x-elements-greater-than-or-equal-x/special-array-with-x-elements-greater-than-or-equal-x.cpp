@@ -11,8 +11,9 @@ public:
         int cnt = 0;
         for(int i = 0; i < nums.size(); i++) {
             if(nums[i] >= mid) {
-                cnt = nums.size() - i;
-                break;
+                // cnt = nums.size() - i;
+                // break;
+                cnt++;
             }
         }
         if(cnt == mid) return mid;
@@ -24,8 +25,9 @@ public:
 
     int specialArray(vector<int>& nums) {
         ios::sync_with_stdio(0);
-        sort(nums.begin(), nums.end());
-
-        return binarySearch(nums,0,nums[nums.size() - 1]);
+        int high = 0;
+        for(int i = 0 ; i < nums.size(); i++) high = max(high, nums[i]);
+        // sort(nums.begin(), nums.end());
+        return binarySearch(nums,0,high);
     }
 };
