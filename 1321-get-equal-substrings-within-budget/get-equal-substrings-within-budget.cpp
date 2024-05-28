@@ -1,13 +1,12 @@
 class Solution {
 public:
     int equalSubstring(string s, string t, int maxCost) {
+        ios::sync_with_stdio(0);
         int n = s.size();
         vector<int> arr(n);
 
         for(int i = 0; i < n; i++) {
-            int big = max(s[i] - 96,t[i] - 96);
-            int small = min(s[i] - 96, t[i] - 96);
-            arr[i] = big - small;            
+            arr[i] = abs(s[i] - t[i]);            
         }
         int st = 0;
         int e = st;
