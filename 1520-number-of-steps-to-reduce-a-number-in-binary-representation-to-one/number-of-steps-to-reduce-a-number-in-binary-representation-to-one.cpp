@@ -3,7 +3,7 @@ class Solution {
 public:
     
     int numSteps(string s) {
-             
+        ios::sync_with_stdio(0);
         ll cnt = 0;
         int i = s.size();
         
@@ -30,7 +30,6 @@ public:
 
             cnt++;  
             
-            // cout<<"updated s: "<<s<<" cnt: "<<cnt<<endl;
         }        
 
         return cnt;
