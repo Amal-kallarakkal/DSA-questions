@@ -12,6 +12,7 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         // min heap
+        ios::sync_with_stdio(0);
         priority_queue<int, vector<int>, greater<int>> pq;
 
         for(auto x: lists) {
