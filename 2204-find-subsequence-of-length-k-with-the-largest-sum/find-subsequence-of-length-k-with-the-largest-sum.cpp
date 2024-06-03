@@ -1,29 +1,29 @@
 class Solution {
 public:
     vector<int> maxSubsequence(vector<int>& nums, int k) {
-        ios::sync_with_stdio(0);
-
-        vector<int> ans(k);
-        priority_queue<int> pq;
-        unordered_map<int,vector<int> > mp;
-        
-        for(int i = 0 ; i < nums.size(); i++) {
-            pq.push(nums[i]);
-            mp[nums[i]].push_back(i);           
-        }
-        int i = 0;
-        while(i < k) {
-            int idx =  mp[pq.top()][mp[pq.top()].size() - 1];
-            ans[i] = idx;
-            if(mp[pq.top()].size()) mp[pq.top()].pop_back();
-            pq.pop();
+		// Declare variables
+        int n = nums.size(), i = 0, t = k;
+		// Answer Array
+        vector<int> ans;
+		
+		// Put first k elements
+        while(t>0){
+            ans.push_back(nums[i]);
             i++;
+            t--;
         }
-        sort(ans.begin(), ans.end());
-
-        for(int i = 0; i < k; i++)  {
-
-            ans[i] = nums[ans[i]];
+		
+		//Loop Through Remaining Array
+        for(int j=i;j<n;j++)
+        {
+			// Calcualate minimum from ans array 
+            int mini = min_element(ans.begin(), ans.end()) - ans.begin();
+			// Comapre it with the current element
+            if(ans[mini] < nums[j]){
+                ans.erase(ans.begin()+mini);
+                ans.push_back(nums[j]);
+            }
+            
         }
         return ans;
     }
