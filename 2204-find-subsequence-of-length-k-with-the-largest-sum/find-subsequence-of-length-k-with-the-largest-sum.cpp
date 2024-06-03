@@ -5,7 +5,7 @@ public:
 
         vector<int> ans(k);
         priority_queue<int> pq;
-        map<int,vector<int> > mp;
+        unordered_map<int,vector<int> > mp;
         
         for(int i = 0 ; i < nums.size(); i++) {
             pq.push(nums[i]);
