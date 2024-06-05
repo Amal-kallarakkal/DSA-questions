@@ -9,8 +9,8 @@ public:
             sort(words[i].begin(), words[i].end());
         }
 
-        for(auto x: words) cout<<x<<" ";
-        cout<<endl;
+        // for(auto x: words) cout<<x<<" ";
+        // cout<<endl;
 
         string res = words[0];
 
