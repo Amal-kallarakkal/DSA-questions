@@ -1,6 +1,8 @@
 class Solution {
 public:
+
     vector<string> commonChars(vector<string>& words) {
+        ios::sync_with_stdio(0);
         vector<int> count(26, INT_MAX);
         vector<string> res;
         for (const auto& w : words) {
