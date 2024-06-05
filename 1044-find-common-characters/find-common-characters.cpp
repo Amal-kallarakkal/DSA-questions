@@ -1,16 +1,14 @@
 class Solution {
 public:
     vector<string> commonChars(vector<string>& words) {
+        ios::sync_with_stdio(0);
+
         sort(words.begin(), words.end());
 
         for(int i = 0 ; i < words.size(); i++) {
             sort(words[i].begin(), words[i].end());
         }
 
-        // for(int i = 0 ; i < words.size(); i++) {
-        //     cout<<words[i]<<" ";
-        // }
-        
         string res = words[0];
 
         for(int i = 1 ; i < words.size(); i++) {
