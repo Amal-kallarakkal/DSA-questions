@@ -3,7 +3,7 @@ public:
     vector<string> commonChars(vector<string>& words) {
         ios::sync_with_stdio(0);
 
-        sort(words.begin(), words.end());
+        // sort(words.begin(), words.end());
 
         for(int i = 0 ; i < words.size(); i++) {
             sort(words[i].begin(), words[i].end());
