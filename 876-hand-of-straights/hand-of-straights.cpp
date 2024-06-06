@@ -1,3 +1,4 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
@@ -7,7 +8,7 @@ public:
         
         if(hand.size()%k != 0) return false;    
 
-        map<int,int> mp;
+        unordered_map<int,int> mp;
 
         for(int i = 0 ;i < hand.size(); i++) {
             mp[hand[i]]++;
