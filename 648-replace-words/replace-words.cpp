@@ -1,6 +1,9 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     string replaceWords(vector<string>& dictionary, string sentence) {
+        ios::sync_with_stdio(0);
+        
         string ans = "";
 
         int start = 0;
