@@ -14,11 +14,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
 | [1044-find-common-characters](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1044-find-common-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 # Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
 | [1044-find-common-characters](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1044-find-common-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 # Sorting
@@ -29,3 +31,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
