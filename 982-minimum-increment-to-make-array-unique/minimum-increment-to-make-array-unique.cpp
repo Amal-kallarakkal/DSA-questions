@@ -1,7 +1,9 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
+
     int minIncrementForUnique(vector<int>& nums) {
-        // unordered_set<int> set;
+        ios::sync_with_stdio(0);
         sort(nums.begin(), nums.end());
         int diff = 0;
         int ans = 0;
@@ -12,8 +14,6 @@ public:
                 ans += diff;
             }
         }
-
-        for(int i = 0 ; i  < nums.size(); i++) cout<<nums[i]<<" ";
 
         return ans;
     }
