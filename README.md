@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1044-find-common-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 # Hash Table
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 # Heap (Priority Queue)
 |  |
@@ -42,3 +44,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
+# Greedy
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
