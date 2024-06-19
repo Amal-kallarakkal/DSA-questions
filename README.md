@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
+| [0621-task-scheduler](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0621-task-scheduler) |
 | [0853-most-profit-assigning-work](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1044-find-common-characters) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0202-happy-number](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
+| [0621-task-scheduler](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0621-task-scheduler) |
 | [1044-find-common-characters](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1044-find-common-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 # Sorting
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0621-task-scheduler) |
 | [0853-most-profit-assigning-work](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -45,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0621-task-scheduler) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 # Math
 |  |
@@ -60,11 +64,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0621-task-scheduler) |
 | [0853-most-profit-assigning-work](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0621-task-scheduler) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Binary Search
 |  |
