@@ -16,7 +16,7 @@ public:
         pair<int, char> top;
         int cnt = 0;
         int interval = 0;
-        stack<pair<int, char>> st;
+        vector<pair<int, char>> st;
         int i = 0;
         while(!pq.empty()) {            
             cnt = 0;
@@ -25,7 +25,7 @@ public:
                 if(!pq.empty()) {
                     top = pq.top();
                     pq.pop();
-                    if(top.first > 1) st.push({top.first - 1, top.second});
+                    if(top.first > 1) st.push_back({top.first - 1, top.second});
                     i++; 
                 }
                 if(i >= tasks.size())  break;
@@ -34,9 +34,9 @@ public:
                 cnt++; 
                               
             }
-            while(!st.empty()) {
-                pq.push(st.top());
-                st.pop();
+            for(int i = st.size() - 1; i  >= 0; i--) {
+                pq.push(st[i]);
+                st.pop_back();
             }
             
         }
