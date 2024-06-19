@@ -1,6 +1,9 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
+
+        ios::sync_with_stdio(0);
         priority_queue<pair<int, char>> pq;
         unordered_map<char, int> mp;
         for(int i = 0 ; i < tasks.size(); i++) {
@@ -22,19 +25,17 @@ public:
                 if(!pq.empty()) {
                     top = pq.top();
                     pq.pop();
-                    // cout<<top.first<<" , "<<top.first - 1<< " : "<<top.second<<endl;
                     if(top.first > 1) st.push({top.first - 1, top.second});
                     i++; 
                 }
                 if(i >= tasks.size())  break;
-                // cout<<top.first<<" : "<<top.second<<endl;
+              
                 interval++;
                 cnt++; 
                               
             }
             while(!st.empty()) {
                 pq.push(st.top());
-                // cout<<st.top().first<<" "<<st.top().second<<endl;
                 st.pop();
             }
             
