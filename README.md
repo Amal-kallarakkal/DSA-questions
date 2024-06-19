@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1044-find-common-characters) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 # Hash Table
 |  |
@@ -67,3 +68,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
