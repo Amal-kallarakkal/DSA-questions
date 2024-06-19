@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0853-most-profit-assigning-work) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
 | [1044-find-common-characters](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1044-find-common-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
