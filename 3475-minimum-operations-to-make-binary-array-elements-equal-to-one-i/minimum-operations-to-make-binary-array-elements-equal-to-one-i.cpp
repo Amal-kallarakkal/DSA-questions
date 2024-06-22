@@ -1,6 +1,8 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
+        ios::sync_with_stdio(0);
         int n = nums.size();
         int st = 0;
         int end;
