@@ -9,7 +9,10 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ #pragma GCC optimize("OFast")
 class Solution {
+    // ios::sync_with_stdio(0);
+
 public:
     void solve(TreeNode* root, int &sum) {
         if(!root) return;
