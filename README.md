@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0202-happy-number) |
+| [0365-water-and-jug-problem](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0365-water-and-jug-problem) |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0365-water-and-jug-problem) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
@@ -102,3 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0365-water-and-jug-problem) |
