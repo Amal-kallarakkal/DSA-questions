@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0621-task-scheduler) |
 | [0853-most-profit-assigning-work](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1285-balance-a-binary-search-tree) |
 # Counting
 |  |
 | ------- |
@@ -91,20 +92,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0365-water-and-jug-problem) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0365-water-and-jug-problem) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1285-balance-a-binary-search-tree) |
