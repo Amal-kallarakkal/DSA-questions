@@ -9,9 +9,10 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+#pragma GCC optimize("OFast")
 class Solution {
 public:
-
+    // ios::sync_with_stdio(0)
     void traverse(TreeNode* root, vector<int> &nums) {
         if(!root) return;
 
@@ -22,24 +23,6 @@ public:
         if(root->right) traverse(root->right, nums);
     }
 
-    void bfs(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-        TreeNode* temp;
-        while(!q.empty()) {
-            temp = q.front();
-            q.pop();
-            if(q.empty() && temp) q.push(NULL);
-            if(temp == NULL) {
-                cout<<endl;
-                continue;
-            }   
-            cout<<temp->val<<" ";
-            if(temp->left) q.push(temp->left);
-            if(temp->right) q.push(temp->right);
-            
-        }
-    }
 
     TreeNode* solve(vector<int> &nums, TreeNode* root, int i, int j) {
 
@@ -60,13 +43,7 @@ public:
 
         traverse(root, nums);
         int n = nums.size();
-        // int nums[n] ;
-        // for(int i = 0; i < n; i ++) nums[i] = nums[i];
-        TreeNode* root2 = solve(nums, root, 0, n);
-        vector<int> nums2;
-        traverse(root2, nums2);
-        // for(auto x: nums2)cout<<x<<" ";'
-        bfs(root2);
-        return root2;
+        
+        return solve(nums, root, 0, n);
     }
 };
