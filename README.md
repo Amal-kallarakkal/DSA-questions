@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0202-happy-number) |
 | [0365-water-and-jug-problem](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0365-water-and-jug-problem) |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
@@ -123,3 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+# Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0048-rotate-image) |
