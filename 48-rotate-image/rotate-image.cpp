@@ -1,10 +1,9 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
-        int n = matrix[0].size();
-        
-
-        vector<vector<int>> nums(n, vector<int>(n, 0));
+        ios::sync_with_stdio(0);
+        int n = matrix[0].size();     
         int k = 0;
         if(n%2) k = 1;
         for(int i = 0; i < n/2 ; i++ ) {
@@ -24,23 +23,7 @@ public:
             }
         }
 
-        for(int i = 0; i < n; i++ ) {
-            for(int j = 0 ; j < n; j++) {
-                cout<<matrix[i][j]<<" ";
-            }cout<<endl;
-        }
-        // matrix = nums;
+       
     }
 };
 
-// 1 2
-// 3 4 
-
-// 2 1
-// 3 4
-
-// 4 1 
-// 3 2
-
-// 3 1
-// 4 2
