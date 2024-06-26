@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1675-magnetic-force-between-two-balls) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 # Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1285-balance-a-binary-search-tree) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 # Counting
 |  |
 | ------- |
@@ -117,3 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1285-balance-a-binary-search-tree) |
+# Dynamic Programming
+|  |
+| ------- |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
