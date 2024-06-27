@@ -129,3 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0048-rotate-image) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1916-find-center-of-star-graph) |
