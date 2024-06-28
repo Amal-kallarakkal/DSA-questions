@@ -1,6 +1,8 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr, int k, int threshold) {
+        ios::sync_with_stdio(0);
         int sum = 0 ; 
         int avg = 0;
         int cnt = 0;
@@ -12,10 +14,8 @@ public:
             if(avg >= threshold) cnt++;
             j = i + k;
             sum -= arr[i];
-            sum += arr[j];
-            // cout<<"sum: "<<sum<<" avg: ";
-            avg = sum/k;
-            // cout<<avg<<endl;
+            sum += arr[j];            
+            avg = sum/k;            
         }
         if(avg >= threshold) cnt++;
 
