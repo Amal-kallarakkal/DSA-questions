@@ -49,12 +49,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1675-magnetic-force-between-two-balls) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2379-maximum-total-importance-of-roads) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0621-task-scheduler) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2379-maximum-total-importance-of-roads) |
 # Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2379-maximum-total-importance-of-roads) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 # Counting
 |  |
@@ -133,3 +136,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2379-maximum-total-importance-of-roads) |
