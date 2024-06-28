@@ -3,7 +3,10 @@ using ll = long long;
 class Solution {
 public:
     long long maximumImportance(int n, vector<vector<int>>& roads) {
-        ios::sync_with_stdio(0);
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+        
         unordered_map<int,int> mp;
         ll sum = 0;
         priority_queue<pair<int,int>> pq;
