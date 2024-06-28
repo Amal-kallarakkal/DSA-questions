@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0344-reverse-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0344-reverse-string) |
 | [1044-find-common-characters](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1044-find-common-characters) |
 # Array
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0621-task-scheduler) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1138-grumpy-bookstore-owner](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1138-grumpy-bookstore-owner) |
 # Tree
 |  |
