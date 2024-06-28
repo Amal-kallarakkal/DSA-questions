@@ -3,6 +3,8 @@ class Solution {
 public:
     int numOfSubarrays(vector<int>& arr, int k, int threshold) {
         ios::sync_with_stdio(0);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
         int sum = 0 ; 
         int avg = 0;
         int cnt = 0;
