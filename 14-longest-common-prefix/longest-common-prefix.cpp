@@ -3,8 +3,8 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         ios::sync_with_stdio(0);
-        // cin.tie(false);
-        // cout.tie(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         string ans = strs[0];
         
         string temp = "";
