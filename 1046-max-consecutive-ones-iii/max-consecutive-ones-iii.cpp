@@ -1,6 +1,10 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int cnt = 0;
         int ans = 0;
         int maxi = 0;
@@ -13,15 +17,12 @@ public:
                     cnt--;
                     break;
                 }
-                j++;
-                //  if(cnt > k) j--;
-            }
-            cout<<"i: "<<i<<" , j: "<<j<<endl; 
-            // cout<<"cnt : "<<cnt<<endl;
+                j++;                
+            }            
             ans = j - i ;
             maxi = max(maxi, ans);
             if(!nums[i]) cnt--;
-            // i = j + maxi - 1;
+            
         }
         return maxi;
     }
