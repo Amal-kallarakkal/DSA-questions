@@ -4,18 +4,23 @@ public:
         int cnt = 0;
         int ans = 0;
         int maxi = 0;
-        int j;
+        int j = 0;
         for(int i = 0 ; i < nums.size()  - maxi; i++) {
-            j = i;
+            
             while(j < nums.size() && cnt <= k) {
                 if(!nums[j])cnt++;
-                if(cnt <= k) j++;
+                if(cnt > k) {
+                    cnt--;
+                    break;
+                }
+                j++;
+                //  if(cnt > k) j--;
             }
-            // cout<<"i: "<<i<<" , j: "<<j<<endl; 
-            
-            ans = j - i;
+            cout<<"i: "<<i<<" , j: "<<j<<endl; 
+            // cout<<"cnt : "<<cnt<<endl;
+            ans = j - i ;
             maxi = max(maxi, ans);
-            cnt = 0;
+            if(!nums[i]) cnt--;
             // i = j + maxi - 1;
         }
         return maxi;
