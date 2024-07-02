@@ -1,8 +1,7 @@
 #pragma GCC optimize("OFast")
 class Solution {
 public:
-    // ios::sync_with_stdio(0);
-
+    
     int solve(string &s, int &k, char &C, int &maxi) {
         int cnt = 0;
         
