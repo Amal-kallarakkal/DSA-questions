@@ -1,24 +1,26 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
+    // ios::sync_with_stdio(0);
+
     int solve(string &s, int &k, char &C, int &maxi) {
         int cnt = 0;
-        // int maxi = 0;
-        // for maximum continous char C(A or  B)
+        
+        // for maximum continous char C(any unique char in s)
         int j = 0;
         for(int i = 0 ; i < s.size() - maxi; i++) {
             while(j <  s.size() && cnt <= k ) {
                 if(s[j] != C) cnt++;
                 if(cnt > k) {
                     cnt--;
-                    // j--;
+                    
                     break;
                 }
                 j++;
             }
-            // cout<<"i"<<i<<" , "<<j<<endl;
-            maxi = max(maxi, j - i);
             
-            if(s[i] != C) cnt--;         
+            maxi = max(maxi, j - i);            
+            if(s[i] != C) cnt--;       
             
         }
         return maxi;
