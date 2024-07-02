@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1293-three-consecutive-odds) |
 ## Sliding Window
@@ -160,4 +161,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
