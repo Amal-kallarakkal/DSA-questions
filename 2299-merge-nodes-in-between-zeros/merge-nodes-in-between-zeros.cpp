@@ -32,11 +32,7 @@ public:
             sum += temp->val;
             temp = temp->next;
         }
-        temp = head2;
-        while(temp) {
-            cout<<temp->val<<" ";
-            temp = temp->next;
-        }
+       
         head2 = head2->next;
         return head2;
     }
