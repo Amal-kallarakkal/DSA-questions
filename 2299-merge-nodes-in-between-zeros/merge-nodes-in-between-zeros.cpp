@@ -15,18 +15,15 @@ public:
         ListNode* head2 = new ListNode(0);
         ListNode* temp =  head->next;
         ListNode* temp2 = head2;
-        long long sum = 0;
+        int sum = 0;
         
         temp2 = head2;
         while(temp) {
-            // cout<<temp->val<<" ";
+            
             if(!temp->val) {                
-                ListNode* newnode = new ListNode(sum);
-                
-                temp2->next = newnode;
-                
-                temp2 = temp2->next;
-                // cout<<temp2->val<<" ";
+                ListNode* newnode = new ListNode(sum);                
+                temp2->next = newnode;                
+                temp2 = temp2->next;                
                 sum = 0;
             }
             sum += temp->val;
