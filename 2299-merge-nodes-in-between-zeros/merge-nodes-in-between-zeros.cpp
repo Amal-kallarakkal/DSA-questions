@@ -12,7 +12,9 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
-        // ios::sync_with_sdtio(0);
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         if(!head || !head->next) return NULL;
         ListNode* head2 = new ListNode(0);
         ListNode* temp =  head->next;
