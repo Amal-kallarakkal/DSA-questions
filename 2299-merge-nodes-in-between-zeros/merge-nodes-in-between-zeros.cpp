@@ -8,9 +8,11 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
+        // ios::sync_with_sdtio(0);
         if(!head || !head->next) return NULL;
         ListNode* head2 = new ListNode(0);
         ListNode* temp =  head->next;
