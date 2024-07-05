@@ -8,7 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+ #pragma GCC optimize("OFast")
 class Solution {
+// ios::sync_with_stdio();
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         vector<int> critical;
@@ -21,13 +23,10 @@ public:
 
         if(next == NULL) return ans;
         
-        while(next) {  
-           
+        while(next) {          
             a = prev->val;
             b = curr->val;
-            c = next->val;
-            // cout<<a<<" , "<<b<<" , "<<c<<endl;
-            
+            c = next->val;                        
             if(b < a && b < c) critical.push_back(i);
             else if(b > a && b > c) critical.push_back(i);
             prev = curr;
@@ -38,11 +37,14 @@ public:
 
         int n = critical.size();
         if(n <= 1) return ans;
-        int mini = INT_MAX;
+
+        int mini = INT_MAX;        
         ans[1] = critical[n-1] - critical[0];
+
         for(int i = 0; i < n- 1; i++) {
             mini = min(mini, critical[i+ 1] - critical[i]);
         }
+
         ans[0] = mini;
 
         return ans;
