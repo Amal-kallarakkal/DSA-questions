@@ -2,17 +2,11 @@ class Solution {
 public:
     int passThePillow(int n, int time) {
         
-        int i = 1;
-        bool r = true;
-
-        while(time--) {
-            if(r) i++;
-            else i--;
-
-            if(i == n) r = false;
-            else if(i == 1) r = true;
-        }
-        
-        return i;
+        int mod = time% (n - 1);
+        int turn = time/(n - 1);
+        if(turn%2) {
+            return n - mod;
+        } else return mod + 1;
+        return 1;
     }
 };
