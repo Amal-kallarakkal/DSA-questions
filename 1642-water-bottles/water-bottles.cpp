@@ -1,16 +1,15 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
+    // ios::sync_with_stdio(0);
     int numWaterBottles(int numBottles, int numExchange) {
-        int carry = 0, sum = 0 ;
-        int empty = 0;
+        int empty = 0, sum = 0 ;
+        
         while(numBottles) {
             sum += numBottles;
             empty += numBottles;
-            // cout<<empty<<endl;
-            // carry = numBottles%numExchange;
             numBottles = empty/numExchange;
-            empty = empty%numExchange;
-            
+            empty = empty%numExchange;            
         }
         return sum;
     }
