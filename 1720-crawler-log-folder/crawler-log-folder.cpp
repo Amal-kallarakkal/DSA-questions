@@ -1,3 +1,4 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     int minOperations(vector<string>& logs) {
@@ -7,8 +8,7 @@ public:
                 if(cnt) cnt--;
             } 
             else if(logs[i] == "./") continue;
-            else cnt++;
-            cout<<logs[i]<<" - cnt: "<<cnt<<endl;
+            else cnt++;            
         }
 
         return cnt;
