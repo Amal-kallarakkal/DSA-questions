@@ -1,7 +1,6 @@
 #pragma GCC optimize("OFast")
 class Solution {
 public:
-    // ios::sync_with_stdio(0);
     double averageWaitingTime(vector<vector<int>>& nums) {
         int n = nums.size();
         long long int sum = 0;        
