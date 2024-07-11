@@ -9,10 +9,7 @@ public:
             j = i;
             while(j < n) {
                 set.insert(fruits[j]);
-                if(set.size() >= 3) {
-                    cout<<"break at j: "<<j<<endl;
-                    break;
-                }   
+                if(set.size() >= 3) break;   
                 j++;
             }
             maxi = max(maxi, j - i);
