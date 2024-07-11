@@ -1,3 +1,4 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
