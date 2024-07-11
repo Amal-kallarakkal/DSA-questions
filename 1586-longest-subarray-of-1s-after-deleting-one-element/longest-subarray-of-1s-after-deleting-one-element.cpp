@@ -1,6 +1,7 @@
 #pragma GCC optimize("OFast")
 class Solution {
 public:
+    // ios::sync_with_stdio(0);
     int longestSubarray(vector<int>& nums) {
         int maxi = 0;
         int cnt = 0, i = 0 , j = 0, n = nums.size();
