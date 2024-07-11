@@ -16,7 +16,6 @@ public:
             // cout<<i<<" size: "<<set.size()<<" j: "<<j<<endl;
             set.clear();
             i++;
-            cout<<i<<endl;
         }
         return maxi;
     }
