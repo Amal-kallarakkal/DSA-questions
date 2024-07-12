@@ -1,3 +1,4 @@
+#pragma GCC optimize("OFast")
 class Solution {
 public:
     int solve(string &s, int &x, int &y, string first, string second) {
@@ -22,7 +23,6 @@ public:
                 temp.push_back(s[i]);
             }
         }        
-        // cout<<temp<<" , "<<points<<endl;
         stack<char> st2;
         st2.push(temp[0]);
         for(int i = 1; i < temp.size(); i++) {
