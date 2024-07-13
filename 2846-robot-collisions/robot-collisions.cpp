@@ -18,19 +18,9 @@ public:
         st.push({pos[0], pd[pos[0]]});
 
         for(int i = 1 ; i < pos.size(); i++) {
-            if(st.empty()) {
-                st.push({pos[i], pd[pos[i]]});
-            } else if(st.top().second == 'R' && pd[pos[i]] == 'L') {
-                if(ph[st.top().first] > ph[pos[i]]){
-                    ph[st.top().first]--;
-                    ph[pos[i]] = 0;
-                } 
-                else if(ph[st.top().first] == ph[pos[i]]) {
-                    ph[st.top().first] = 0;
-                    ph[pos[i]] = 0;
-                    st.pop();
-                } else {                    
-                    while(!st.empty() && st.top().second == 'R') {
+            
+            if(pd[pos[i]] == 'L') {
+                while(!st.empty() && st.top().second == 'R') {
                         if(ph[st.top().first] > ph[pos[i]]){
                             ph[st.top().first]--;
                             ph[pos[i]] = 0;
@@ -47,7 +37,6 @@ public:
                         }
                     }
                     if(ph[pos[i]]) st.push({pos[i], pd[pos[i]]});
-                }
             } else {
                 st.push({pos[i], pd[pos[i]]});
             }
