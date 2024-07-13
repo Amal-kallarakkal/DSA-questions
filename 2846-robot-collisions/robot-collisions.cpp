@@ -1,21 +1,22 @@
+#pragma GCC optimize("OFast")
+int _ = [](){ ios_base::sync_with_stdio(false); cin.tie(nullptr); return 0; }();
 class Solution {
 public:
     vector<int> survivedRobotsHealths(vector<int>& positions, vector<int>& healths, string directions) {
         vector<int> ans;
         map<int, int> ph;
-        map<int, char> pd;
+        map<int, char> pd;      
+        stack<pair<int, char>> st;
+        vector<int> pos = positions;
 
         for(int i = 0 ; i < positions.size(); i++) {
             ph[positions[i]] = healths[i];
             pd[positions[i]] = directions[i];
         }
 
-        // for(auto x: pd) cout<<x.first<<" : "<<x.second<<endl;
-        // for(auto x: ph) cout<<x.first<<" : "<<x.second<<endl;
-        stack<pair<int, char>> st;
-        vector<int> pos = positions;
         sort(pos.begin(), pos.end());
         st.push({pos[0], pd[pos[0]]});
+
         for(int i = 1 ; i < pos.size(); i++) {
             if(st.empty()) {
                 st.push({pos[i], pd[pos[i]]});
@@ -51,8 +52,7 @@ public:
                 st.push({pos[i], pd[pos[i]]});
             }
         }
-        // for(auto x: pd) cout<<x.first<<" : "<<x.second<<endl;
-        // for(auto x: ph) cout<<x.first<<" : "<<x.second<<endl;
+        
         for(int i = 0 ; i < positions.size(); i++) {
             if(ph[positions[i]]) ans.push_back(ph[positions[i]]);
         }
