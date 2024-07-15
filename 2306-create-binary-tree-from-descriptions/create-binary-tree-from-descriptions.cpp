@@ -9,6 +9,13 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+ #pragma GCC optimize("OFast")
+ auto _ = [](){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL), cout.tie(NULL);
+    return 0;
+}();
 class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
