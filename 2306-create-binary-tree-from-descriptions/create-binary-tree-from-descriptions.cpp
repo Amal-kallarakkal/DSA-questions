@@ -24,15 +24,12 @@ public:
         }
         
         for(auto x: mp) {
-            // cout<<x.first<<" ->"<<x.second[0]<<", "<<x.second[1]<<endl;
             if(set.count(x.second[0])) set.erase(x.second[0]);
             if(set.count(x.second[1])) set.erase(x.second[1]);
         }
-        // for(int i = 0 ; i < set.size(); i++) root = set[i];
         auto it = set.begin();
         root = *it;
-        // cout<<"root: "<<root<<endl;
-
+  
         TreeNode *head = new TreeNode(root);
         queue<TreeNode*> q;
         q.push(head);
