@@ -14,7 +14,7 @@ public:
             for(int j = 0; j < col; j++) {
                 mini = min(matrix[i][j] , mini);
             }
-            // cout<<maxi<<endl;
+            
             rset.insert(mini);
         }
 
@@ -22,8 +22,7 @@ public:
             maxi = 0;
             for(int j = 0; j < row; j++) {
                 maxi = max(matrix[j][i] , maxi);
-            }
-            // cout<<maxi<<endl;
+            }            
             cset.insert(maxi);
         }
 
