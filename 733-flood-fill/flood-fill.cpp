@@ -9,6 +9,7 @@ public:
         // direction
         int dx[4] = {0, 0, -1, 1};
         int dy[4] = {-1, 1, 0, 0};
+        
         int adjx, adjy, x, y;
         int pcolor = image[sr][sc];
         if(pcolor == color) return image;
