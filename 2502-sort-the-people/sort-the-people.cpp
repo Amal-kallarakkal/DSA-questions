@@ -10,15 +10,16 @@ static auto _ = [](){
 class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
-        vector<pair<int, string>> nums;
+        
+        priority_queue<pair<int, string>> pq;
         int n = names.size();
         for(int i = 0; i < n; i++) {
-            nums.push_back({heights[i],names[i]});
+            pq.push({heights[i],names[i]});
         }
-        vector<string> ans(n);
-        sort(nums.rbegin(), nums.rend());
-        for(int i = 0 ; i < n; i++) {
-            ans[i] = nums[i].second;
+        vector<string> ans;
+        while(!pq.empty()) {
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
         return ans;
     }
