@@ -10,7 +10,6 @@ static auto _ = [](){
 class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
-        map<int , string> mp;
         vector<pair<int, string>> nums;
         int n = names.size();
         for(int i = 0; i < n; i++) {
