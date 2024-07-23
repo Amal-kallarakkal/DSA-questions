@@ -10,15 +10,14 @@ public:
         map<int, vector<int>> mp2;
         for(auto x : mp) {
             mp2[x.second].push_back(x.first);
-            sort(mp2[x.second].rbegin(), mp2[x.second].rend());
             // cout<<x.first<<" : "<<x.second<<endl;
         }
         vector<int> ans;
         int k = 0;
         for(auto x: mp2) {
+            sort(x.second.rbegin(), x.second.rend());
             for(int y : x.second)  {
-                k = x.first;
-            
+                k = x.first;            
                while(k) {
                 ans.push_back(y);
                 k--;
