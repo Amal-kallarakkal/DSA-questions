@@ -3,11 +3,10 @@ public:
 
     int dx[4] = {0, 0, 1, -1};
     int dy[4] = {1, -1, 0, 0};
-
+    int row, col;
     void dfs(int x, int y, vector<vector<int>> &visited, vector<vector<int>>& grid) {
         int nx, ny;            
-        int row = grid.size();
-        int col = grid[0].size();
+        
         visited[x][y] = 1;
         for(int i = 0 ; i < 4; i++) {
             nx = x + dx[i];
@@ -23,8 +22,8 @@ public:
 
     int numEnclaves(vector<vector<int>>& grid) {
             
-        int row = grid.size();
-        int col = grid[0].size();
+        row = grid.size();
+        col = grid[0].size();
         int cnt = 0;
         vector<vector<int>> visited(row, vector<int> (col , 0));
 
