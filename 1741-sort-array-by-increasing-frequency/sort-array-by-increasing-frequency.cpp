@@ -10,7 +10,6 @@ public:
         map<int, vector<int>> mp2;
         for(auto x : mp) {
             mp2[x.second].push_back(x.first);
-            // cout<<x.first<<" : "<<x.second<<endl;
         }
         vector<int> ans;
         int k = 0;
@@ -18,9 +17,8 @@ public:
             sort(x.second.rbegin(), x.second.rend());
             for(int y : x.second)  {
                 k = x.first;            
-               while(k) {
-                ans.push_back(y);
-                k--;
+               while(k--) {
+                ans.push_back(y);                
                }
             }
         }
