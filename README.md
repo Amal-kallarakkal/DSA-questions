@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0940-fruit-into-baskets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1293-three-consecutive-odds) |
+| [1511-count-number-of-teams](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
 |  |
@@ -272,4 +274,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
