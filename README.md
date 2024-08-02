@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1803-average-waiting-time) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## String
 |  |
 | ------- |
