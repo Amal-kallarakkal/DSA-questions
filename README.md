@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0643-maximum-average-subarray-i) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0940-fruit-into-baskets) |
+| [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1511-count-number-of-teams) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0940-fruit-into-baskets) |
+| [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1207-delete-nodes-and-return-forest) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
@@ -301,4 +305,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
