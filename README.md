@@ -313,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
