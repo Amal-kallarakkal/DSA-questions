@@ -15,17 +15,16 @@ public:
             } else if(arrays[i][0] < mini2.second) {
                 mini2 = {i,arrays[i][0]};
             }
+
             if(arrays[i][n] > maxi1.second) { 
                 maxi2 = maxi1;
                 maxi1 = {i, arrays[i][n]};
             } else if(arrays[i][n] > maxi2.second) { 
                 maxi2 = {i, arrays[i][n]};
             }
-
                         
         }
-        // cout<<maxi1.second <<" , "<< mini1.second<<" | "<<maxi2.second <<" , "<< mini2.second<<endl;
-        // if(maxi2.first == -1) return 0;
+        
         if(maxi1.first != mini1.first) {
             return maxi1.second - mini1.second;
         } else {
