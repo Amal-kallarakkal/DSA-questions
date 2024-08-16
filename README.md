@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0040-combination-sum-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0624-maximum-distance-in-arrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Linked List
