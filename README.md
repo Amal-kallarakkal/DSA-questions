@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0940-fruit-into-baskets) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -255,11 +256,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0209-minimum-size-subarray-sum) |
+| [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,4 +368,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0040-combination-sum-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
