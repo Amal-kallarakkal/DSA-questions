@@ -1,38 +1,41 @@
 class Solution {
 public:
-    void dfs(int i, vector<int> &visited, vector<unordered_set<int>> &adj, vector<int> &ans) {
-        visited[i] = 1;
-
-        for(int j : adj[i]) {
-            if(!visited[j]) {
-                dfs(j, visited, adj, ans);
-            }
-        }
-        ans.push_back(i);
-    }
 
     bool canFinish(int numCourses, vector<vector<int>>& nums) {
         int v = numCourses;
         vector<unordered_set<int>> adj(v);
-        vector<int> visited(v, 0);
+        vector<int> indegree(v, 0);
+        queue<int> q;
         vector<int> ans;
 
         for(int i = 0 ; i < nums.size(); i++) {
             adj[nums[i][1]].insert(nums[i][0]);
         }
 
-        for(int i = 0 ; i < visited.size(); i++) {
-            if(!visited[i]) {
-                dfs(i, visited, adj, ans);
-            }            
+        for(int i = 0 ; i < v; i++) {
+            for(int j: adj[i]) {
+                indegree[j]++;
+            }
         }
        
         for(int i = 0; i < v ; i++) {
-            for(int j = i ; j < v; j++) {
-                if(adj[ans[i]].count(ans[j])) return false;
+            if(!indegree[i]) {
+                q.push(i);
             }
         }
-        return true;
+
+        int f ;
+        while(!q.empty()) {
+            f = q.front();
+            ans.push_back(f);
+            q.pop();
+
+            for(int i: adj[f]) {
+                indegree[i]--;
+                if(!indegree[i]) q.push(i);
+            }
+        }
+        return (ans.size() == v);
 
     }
 };
