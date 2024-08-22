@@ -24,15 +24,10 @@ public:
         for(int i = 0 ; i < visited.size(); i++) {
             if(!visited[i]) {
                 dfs(i, visited, adj, ans);
-            }
-            // cout<<i<<" -> ";
-            // for(int x: adj[i]) cout<<x<<" ";
-            // cout<<endl;
+            }            
         }
-        // reverse(ans.begin(), ans.end());
-
+       
         for(int i = 0; i < v ; i++) {
-            // cout<<abs
             for(int j = i ; j < v; j++) {
                 if(adj[ans[i]].count(ans[j])) return false;
             }
