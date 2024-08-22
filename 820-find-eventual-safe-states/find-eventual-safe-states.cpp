@@ -21,6 +21,7 @@ public:
         unordered_set<int> set;
         vector<int> visited(v, 0);
         vector<int> path(v, 0);
+         
         for(int i = 0; i < v; i++) {
             if(graph[i].size() == 0) {
                 set.insert(i);
@@ -29,14 +30,14 @@ public:
         }
 
         for(int i = 0 ; i < v; i++) {
-            for(int j: graph[i]) {
-                // if(set.count(j)) {
-                    // check cycle present or not                    
-                    if(!cycleCheck(i, visited, graph, path)) {
-                        if(!set.count(i))ans.push_back(i);
+            for(int j: graph[i]) {                
+                // check cycle present or not                    
+                if(!cycleCheck(i, visited, graph, path)) {
+                    if(!set.count(i)) {
+                        ans.push_back(i);
                         set.insert(i);
                     }
-                // }
+                }            
             }
         }
         sort(ans.begin(), ans.end());
