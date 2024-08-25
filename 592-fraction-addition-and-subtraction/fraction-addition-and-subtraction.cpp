@@ -50,9 +50,7 @@ public:
         }
         int fnum = nans/abs(__gcd(nans, lcm));
         int fden = lcm/abs(__gcd(nans, lcm));
-        if(fnum < 0) ans += '-';
         
-        fnum = abs(fnum);
         ans += to_string(fnum);        
         ans += '/';
         ans += to_string(fden);
