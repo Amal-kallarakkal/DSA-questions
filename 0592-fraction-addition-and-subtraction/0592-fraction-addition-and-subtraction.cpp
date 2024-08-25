@@ -36,9 +36,6 @@ public:
                 else den.push_back(s[i] - '0');
             }
         }
-        // for(int i = 0 ; i < den.size() ; i++) {
-        //     cout<<num[i]<<"/"<<den[i]<<" , ";
-        // }cout<<endl;
         
         for(int i = 0 ; i < den.size() ; i++) {
             lcm = findlcm(lcm, den[i]);
@@ -53,16 +50,11 @@ public:
         }
         int fnum = nans/abs(__gcd(nans, lcm));
         int fden = lcm/abs(__gcd(nans, lcm));
-        if(fnum < 0) ans += '-';
-        // cout<<fnum<<"/"<<fden;
-        string pre = "";
-        // ans += abs(fnum) + '0';
-        fnum = abs(fnum);
-        ans += to_string(fnum);
-        // cout<<pre<<endl;
+        
+        ans += to_string(fnum);        
         ans += '/';
         ans += to_string(fden);
-        // cout<<ans;
+        
         return ans;
 
     }
