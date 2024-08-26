@@ -25,10 +25,10 @@ public:
     void solve(Node* root) {
         
         if(root == NULL) return ;
-        
+
         int n = root->children.size();
 
-        // leftmost
+        // leftmost children first
         for(int i = 0 ; i < n; i++) {
             solve(root->children[i]);
         }
