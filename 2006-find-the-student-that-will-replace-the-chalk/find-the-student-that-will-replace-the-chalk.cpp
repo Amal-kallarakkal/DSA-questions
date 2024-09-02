@@ -11,16 +11,14 @@ public:
             sum += chalk[i];
             i++;
         }
-        // cout<<sum<<endl;
+
         k = k%sum;
-        // cout<<"k: "<<k;
         i = 0;
+        
         while(k > 0) {
             k -= chalk[i];
             if(k < 0) return i;
-            i++;
-            if(i >= n) i = 0;
-            // ans = i;
+            i++;            
         }
         return i;
     }
