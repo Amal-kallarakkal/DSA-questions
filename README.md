@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0592-fraction-addition-and-subtraction) |
 | [1803-average-waiting-time](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2846-robot-collisions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2846-robot-collisions) |
 ## Stack
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0209-minimum-size-subarray-sum) |
 | [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
 | ------- |
