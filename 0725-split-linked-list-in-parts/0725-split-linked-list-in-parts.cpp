@@ -60,3 +60,10 @@ public:
         return list;
     }
 };
+
+static const int speedup = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 0;
+}();
