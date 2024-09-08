@@ -32,8 +32,7 @@ public:
             }
             
             while(k--) {
-                list.push_back(NULL);
-                
+                list.push_back(NULL);                
             }
             
         } else {
