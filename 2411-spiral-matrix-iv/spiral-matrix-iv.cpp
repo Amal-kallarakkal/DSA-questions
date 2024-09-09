@@ -67,7 +67,7 @@ public:
                 row++;
                 col++;
             }
-            if(row < minrow || col < mincol) break;
+            if(row < minrow || col < mincol || row > maxrow || col > maxcol) break;
         }
 
         return ans;
