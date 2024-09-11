@@ -1,17 +1,6 @@
 class Solution {
 public:
-    string binary(int n) {
-        string ans = "";
-        while(n) {
-            if(n%2) {
-                ans += '1';
-            } else {
-                ans += '0';
-            }
-            n /= 2;
-        }
-        return ans;
-    }
+
     int minBitFlips(int start, int goal) {
         int cnt = 0;
         string s = "";
