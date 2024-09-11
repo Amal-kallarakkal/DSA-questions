@@ -14,27 +14,27 @@ public:
     }
     int minBitFlips(int start, int goal) {
         int cnt = 0;
-        string s = binary(start);
-        string g = binary(goal);   
+        string s = "";
+        string g = "";   
         
-
-        int is = 0, ig = 0;
-        if(s.size() > g.size()) {
-            int i = 0 ; 
-            int diff = s.size() - g.size();
-            while(i < diff) {
-                g += '0';
-                i++;
-            }
-        } else if(g.size() > s.size()) {
-            int i = 0 ; 
-            int diff = g.size() - s.size();
-            while(i < diff) {
+         while(start || goal) {
+            if(start%2) {
+                s += '1';
+            } else {
                 s += '0';
-                i++;
             }
+            start /= 2;
+
+            if(goal%2) {
+                g += '1';
+            } else {
+                g += '0';
+            }
+            goal /= 2;
         }
 
+        int is = 0, ig = 0;
+        
         while(is < s.size() && ig < g.size()) {
             if(s[is++] != g[ig++]) cnt++;
         }
