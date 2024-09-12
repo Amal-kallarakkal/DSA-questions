@@ -2,7 +2,7 @@ class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
         int cnt = 0 ,cnt2;
-        set<char> set;
+        unordered_set<char> set;
         for(int  i = 0 ; i < allowed.size(); i++) {
             set.insert(allowed[i]);
         }
