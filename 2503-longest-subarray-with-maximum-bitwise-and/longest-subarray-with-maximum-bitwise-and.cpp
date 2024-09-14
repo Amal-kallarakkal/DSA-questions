@@ -6,7 +6,7 @@ public:
         for(int i = 0 ; i < nums.size(); i++) {
             if(nums[i] >= maxi) {                
                 ans = 1;
-                if(i >= nums.size()) break;
+                // if(i >= nums.size()) break;
                 while(i < nums.size() - 1 && nums[i] == nums[i+1]) {
                     ans++;
                     i++;                    
