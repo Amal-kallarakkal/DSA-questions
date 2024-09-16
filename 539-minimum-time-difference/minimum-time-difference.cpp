@@ -16,8 +16,6 @@ public:
                     mins += (s[i] - '0')*pow(10, 4 - i);
                     i++;
                 }
-
-                // cout<<hrs<<" : "<<mins<<endl;
                 ans.push_back(hrs*60 + mins);
             }
         }
@@ -26,7 +24,8 @@ public:
             for(int j = i + 1; j < n ; j++) {
                 diff = abs(ans[i] - ans[j]);
                 diff = min(diff, 1440 - diff);            
-                mini = min(mini, diff);            
+                mini = min(mini, diff);    
+                if(!mini) return mini;
             }
         }
         return mini;
