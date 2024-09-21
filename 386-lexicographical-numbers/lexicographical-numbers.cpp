@@ -6,6 +6,7 @@ public:
         if(i == n) return;
 
         for(int j = 0; j < 10; j++ ) {
+            if(ans.size() == n) break;
             solve(i*10 + j, ans, n);
         }
     }
