@@ -1,8 +1,8 @@
 class Solution {
 public:
     void solve(int i , vector<int> &ans, int &n) {
-        if(i > n) return ;
-        ans.push_back(i);
+        if(i > n || ans.size() == n) return ;
+        ans.push_back(i); 
         if(i == n) return;
 
         for(int j = 0; j < 10; j++ ) {
