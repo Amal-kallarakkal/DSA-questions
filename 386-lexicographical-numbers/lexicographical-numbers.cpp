@@ -12,6 +12,7 @@ public:
     vector<int> lexicalOrder(int n) {
         vector<int> ans;
         for(int i = 1; i < 10; i++) {
+            if(ans.size() == n) break;
             solve(i, ans, n);
         }
         return ans;
