@@ -10,7 +10,6 @@ public:
         }
     }
     vector<int> lexicalOrder(int n) {
-        vector<vector<int>> mp(9);
         vector<int> ans;
         for(int i = 1; i < 10; i++) {
             solve(i, ans, n);
