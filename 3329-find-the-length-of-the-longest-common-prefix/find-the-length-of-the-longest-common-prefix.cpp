@@ -25,7 +25,7 @@ public:
         
 
         for(string i : st2) {
-            // s2 = to_string(i);
+            
             ans = 0;
             if(st1.count(i)) {
                 ans = i.size();
