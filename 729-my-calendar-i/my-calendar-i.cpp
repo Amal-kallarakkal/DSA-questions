@@ -6,7 +6,7 @@ public:
     }
     
     bool book(int start, int end) {
-
+            
         for(int i = 0 ;i < date.size(); i++) {
             if((date[i].first <= start && date[i].second > start) ||
              (date[i].second > end && date[i].first < end) || 
