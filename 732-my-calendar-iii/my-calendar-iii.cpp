@@ -10,11 +10,9 @@ public:
         line[endTime]--;
         int cnt = 0, maxi = 0;
 
-        // cout<<"new: \n";
         for(auto &i: line) {
             cnt += i.second;
-            maxi = max(maxi, cnt);
-            // if(i.first >= endTime)break;
+            maxi = max(maxi, cnt);            
         }
         return maxi;
     } 
