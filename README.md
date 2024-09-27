@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1803-average-waiting-time) |
+| [1983-maximum-population-year](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2155-find-missing-observations](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2155-find-missing-observations) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0209-minimum-size-subarray-sum) |
 | [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1983-maximum-population-year](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1983-maximum-population-year](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1983-maximum-population-year) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Math
