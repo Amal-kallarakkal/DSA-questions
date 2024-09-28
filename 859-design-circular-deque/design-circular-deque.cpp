@@ -1,3 +1,7 @@
+#pragma GCC optimize ("Ofast")
+#pragma GCC target ("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx")
+#pragma GCC optimize ("-ffloat-store")
+#pragma GCC optimize ("O3", "unroll-loops")
 class MyCircularDeque {
 public:
     vector<int> dq;
