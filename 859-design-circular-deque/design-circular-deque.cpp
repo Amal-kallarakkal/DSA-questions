@@ -50,7 +50,6 @@ public:
         if(dq[0] == -1) return false;
         int j = dq.size() -1;
         while(dq[j] == -1 && j > 0) j--;  
-        // cout<<dq[j]<<endl;
         dq[j] = -1;
         return true;
     }
@@ -76,6 +75,14 @@ public:
         return false;
     }
 };
+
+static const int speedup = []() {
+    ios::sync_with_stdio(0);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    return 0;
+}();
+
 
 /**
  * Your MyCircularDeque object will be instantiated and called as such:
