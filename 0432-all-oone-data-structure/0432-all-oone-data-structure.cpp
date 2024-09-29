@@ -46,11 +46,9 @@ public:
     }
 };
 
-/**
- * Your AllOne object will be instantiated and called as such:
- * AllOne* obj = new AllOne();
- * obj->inc(key);
- * obj->dec(key);
- * string param_3 = obj->getMaxKey();
- * string param_4 = obj->getMinKey();
- */
+static const int speedup = []() {
+    ios::sync_with_stdio(0);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    return 0;
+}();
