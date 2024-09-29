@@ -46,6 +46,13 @@ public:
     }
 };
 
+static const int speedup = []() {
+    ios::sync_with_stdio(0);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    return 0;
+}();
+
 /**
  * Your AllOne object will be instantiated and called as such:
  * AllOne* obj = new AllOne();
