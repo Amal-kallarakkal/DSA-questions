@@ -32,17 +32,11 @@ public:
     }
     
     string getMaxKey() {
-        string ans = "";
-        auto maxFreqIt = count.rbegin();
-        if(count.size() && !maxFreqIt->second.empty()) ans =  *(maxFreqIt->second.begin());
-        return ans;
+        return (count.size() && !count.rbegin()->second.empty())?*(count.rbegin()->second.begin()): "";
     }
     
     string getMinKey() {
-        string ans = "";
-        auto minFreqIt = count.begin();
-        if(count.size() && !minFreqIt->second.empty()) ans =  *(minFreqIt->second.begin());
-        return ans;
+        return (count.size() && !count.begin()->second.empty())?*(count.begin()->second.begin()): "";
     }
 };
 
