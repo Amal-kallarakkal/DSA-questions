@@ -32,11 +32,17 @@ public:
     }
     
     string getMaxKey() {
-        return (count.size() && !count.rbegin()->second.empty())?*(count.rbegin()->second.begin()): "";
+        string ans = "";
+        auto maxFreqIt = count.rbegin();
+        if(count.size() && !maxFreqIt->second.empty()) ans =  *(maxFreqIt->second.begin());
+        return ans;
     }
     
     string getMinKey() {
-        return (count.size() && !count.begin()->second.empty())?*(count.begin()->second.begin()): "";
+        string ans = "";
+        auto minFreqIt = count.begin();
+        if(count.size() && !minFreqIt->second.empty()) ans =  *(minFreqIt->second.begin());
+        return ans;
     }
 };
 
@@ -46,12 +52,3 @@ static const int speedup = []() {
     cout.tie(NULL);
     return 0;
 }();
-
-/**
- * Your AllOne object will be instantiated and called as such:
- * AllOne* obj = new AllOne();
- * obj->inc(key);
- * obj->dec(key);
- * string param_3 = obj->getMaxKey();
- * string param_4 = obj->getMinKey();
- */
