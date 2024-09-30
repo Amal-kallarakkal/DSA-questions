@@ -12,10 +12,6 @@ public:
     
     int pop() {
         if(stack.size() == 1) return -1;
-        // else if(stack.size() == 2) {
-        //     stack.pop_back();
-        //     return -1;
-        // }
         stack.pop_back();
         int top;
         
