@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1207-delete-nodes-and-return-forest) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1983-maximum-population-year](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1983-maximum-population-year) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2163-kth-distinct-string-in-an-array) |
