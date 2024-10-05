@@ -11,6 +11,7 @@ public:
             vector<int> temp(26, 0);
             if(mp[s2[i] - 'a']) {                
                 for(int j = i ; j < i+ n ; j++) {
+                    if(!mp[s2[j] - 'a']) break;
                     temp[s2[j] - 'a']++;
                 }
                 if(temp == mp) return true;
@@ -21,9 +22,3 @@ public:
     }
 };
 
-// static const int speedup = []() {
-//     ios::sync_with_stdio(0);
-//     cin.tie(NULL);
-//     cout.tie(NULL);
-//     return 0;
-// }();
