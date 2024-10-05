@@ -5,14 +5,16 @@ public:
         if(s2.size() < n) return false;
         unordered_map<char, int> mp;
         unordered_map<char, int> temp;
-        // string t = "";
         
         for(int i = 0 ; i < n ; i++) mp[s1[i]]++;
 
         for(int i = 0 ; i < s2.size() - n + 1; i++) {
             temp.clear();
             if(mp.count(s2[i])) {                
-                for(int j = i ; j < i+ n ; j++) temp[s2[j]]++;
+                for(int j = i ; j < i+ n ; j++) {
+                    if(!mp.count(s2[j])) break;
+                    temp[s2[j]]++;
+                }
                 if(temp == mp) return true;
             }
         }
