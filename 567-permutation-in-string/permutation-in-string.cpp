@@ -12,7 +12,6 @@ public:
             temp.clear();
             if(mp.count(s2[i])) {                
                 for(int j = i ; j < i+ n ; j++) {
-                    if(!mp.count(s2[j])) break;
                     temp[s2[j]]++;
                 }
                 if(temp == mp) return true;
