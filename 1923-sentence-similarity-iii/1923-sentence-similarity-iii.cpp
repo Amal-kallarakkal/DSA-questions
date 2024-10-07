@@ -9,7 +9,12 @@ public:
     }
 private:
     vector<string> split(const string& s) {
-        istringstream ss(s);
-        return {istream_iterator<string>(ss), istream_iterator<string>()};
+        stringstream ss(s);
+        vector<string> ans;
+        string word;
+        while(ss>> word) {
+            ans.push_back(word);
+        }
+        return ans;
     }
 };
