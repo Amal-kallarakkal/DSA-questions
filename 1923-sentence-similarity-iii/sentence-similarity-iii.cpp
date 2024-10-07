@@ -8,7 +8,7 @@ public:
         return i + j == n1 || i + j == n2;
     }
 private:
-    vector<string> split(string& s) {
+    vector<string> split(const string& s) {
         stringstream ss(s);
         vector<string> ans;
         string word;
