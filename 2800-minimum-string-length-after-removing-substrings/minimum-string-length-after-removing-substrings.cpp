@@ -12,10 +12,3 @@ public:
         return st.size();
     }
 };
-
-// const static int speedup = []() {
-//     ios::sync_with_stdio();
-//     cin.tie(NULL);
-//     cout.tie(NULL);
-//     return 0;
-// }();
