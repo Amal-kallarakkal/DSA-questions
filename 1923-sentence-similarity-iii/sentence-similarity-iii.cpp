@@ -8,8 +8,13 @@ public:
         return i + j == n1 || i + j == n2;
     }
 private:
-    vector<string> split(const string& s) {
-        istringstream ss(s);
-        return {istream_iterator<string>(ss), istream_iterator<string>()};
+    vector<string> split(string& s) {
+        stringstream ss(s);
+        vector<string> ans;
+        string word;
+        while(ss>> word) {
+            ans.push_back(word);
+        }
+        return ans;
     }
 };
