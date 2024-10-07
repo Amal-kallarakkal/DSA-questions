@@ -1,10 +1,8 @@
 class Solution {
 public:
     int minLength(string s) {
-        int i = 1;
         stack<char> st;
-        st.push(s[0]);
-        while(i < s.size()) {    
+        for(int i = 0; i < s.size(); i++) {    
             if(st.empty()) {
                 st.push(s[i]);
             } else if(st.top() == 'A' && s[i] == 'B') {
@@ -14,7 +12,7 @@ public:
             } else {
                 st.push(s[i]);
             }
-            i++;
+           
         }
 
         return st.size();
