@@ -1,20 +1,23 @@
 class Solution {
 public:
     int minLength(string s) {
-        int i = 0;
-        string t, pre, suf;
-        while(i < s.size()) {
-            t = s.substr(i, 2);
-            if(t == "AB" || t == "CD") {
-                pre = s.substr(0 , i);
-                suf = s.substr(i+2, s.size() - i - 2);\
-                s = pre + suf;
-                i = 0;
-                continue;
+        int i = 1;
+        stack<char> st;
+        st.push(s[0]);
+        while(i < s.size()) {    
+            if(st.empty()) {
+                st.push(s[i]);
+            } else if(st.top() == 'A' && s[i] == 'B') {
+                st.pop();
+            } else if(st.top() == 'C' && s[i] == 'D') {
+                st.pop();
+            } else {
+                st.push(s[i]);
             }
             i++;
         }
-        return s.size();
+
+        return st.size();
     }
 };
 
