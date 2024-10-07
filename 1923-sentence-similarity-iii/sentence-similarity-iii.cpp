@@ -12,9 +12,8 @@ private:
         stringstream ss(s);
         vector<string> ans;
         string word;
-        while(ss>> word) {
-            ans.push_back(word);
-        }
+        while(ss>> word)  ans.push_back(word);
+        
         return ans;
     }
 };
