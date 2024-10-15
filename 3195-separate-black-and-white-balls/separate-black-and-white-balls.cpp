@@ -2,6 +2,9 @@ using ll = long long;
 class Solution {
 public:
     long long minimumSteps(string s) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         ll cnt = 0;
         priority_queue<int> pqmax_0;
         priority_queue<int, vector<int>, greater<int>> pqmin_1;
@@ -19,11 +22,10 @@ public:
             top1 = pqmin_1.top();
             pqmin_1.pop();
             if(top0 < top1) break;
-            // swap(s[top0], s[top1]);
-            // cout<<"0 max i: "<<top0<<" 1 min i: "<<top1<<endl;
             cnt += top0 - top1;
         }
-        // cout<<s;
         return cnt;
     }
 };
+
+
