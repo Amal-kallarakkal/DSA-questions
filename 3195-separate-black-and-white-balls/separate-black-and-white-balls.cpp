@@ -2,9 +2,7 @@ using ll = long long;
 class Solution {
 public:
     long long minimumSteps(string s) {
-        ios::sync_with_stdio(0);
-        cin.tie(NULL);
-        cout.tie(NULL);
+        
         ll cnt = 0;
         priority_queue<int> pqmax_0;
         priority_queue<int, vector<int>, greater<int>> pqmin_1;
@@ -27,5 +25,12 @@ public:
         return cnt;
     }
 };
+
+static const int speedup = []() {
+    ios::sync_with_stdio(0);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    return 0;
+}();
 
 
