@@ -9,8 +9,7 @@ public:
             num /= 10;
         }
         reverse(nums.begin(), nums.end());
-        for(int x: nums) cout<<x;
-        cout<<endl;
+
         k = -1, j = -1;
         for(int i = nums.size() - 1 ; i >= 0; i--) {
             if(nums[i] > maxi) {
@@ -20,7 +19,7 @@ public:
                 k = i;
             }            
         }
-        // cout<<k<<", "<<j<<endl;
+
         if(k < j && k > -1) swap(nums[k], nums[j]);
         for(int x: nums) num = num*10 + x;
         if(k < j && k > -1) swap(nums[k], nums[j]);
@@ -39,11 +38,8 @@ public:
                 }
             }            
         }
-
-        // cout<<k<<", "<<j<<endl;
-        if(k < j && (j > -1 && k > -1)) swap(nums[k], nums[j]);
+        if(k < j && j > -1) swap(nums[k], nums[j]);
         for(int x: nums) num2 = num2*10 + x;
-        // cout<<num2<<endl;
         return max(num, num2);
     }
 };
