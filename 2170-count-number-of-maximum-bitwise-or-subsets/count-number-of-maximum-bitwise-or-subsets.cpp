@@ -1,27 +1,24 @@
 class Solution {
 public:
-    void solve(int i, vector<int>& nums, map<int, int> &mp, int mxor) {
-        if(i >= nums.size()) {
-            return;
-        }
-        // inc
-        mp[mxor|nums[i]]++;
-        solve(i+1, nums, mp, mxor|nums[i]);
-        // exc
-        solve(i+1, nums, mp, mxor);
-
+    int n;
+    unsigned max_OR;
+    int f(int i, unsigned acc_or, vector<int>& nums){
+        if (i<0) return (acc_or==max_OR)?1:0;
+        int skip=f(i-1, acc_or, nums);
+        int take=f(i-1, acc_or| nums[i], nums);
+        return skip+take;
     }
-    int countMaxOrSubsets(vector<int>& nums) {        
-        map<int, int> mp;
-        solve(0, nums, mp, 0);
-        auto last = prev(mp.end());        
-        return last->second;
+    int countMaxOrSubsets(vector<int>& nums) {
+        n=nums.size();
+        max_OR=accumulate(nums.begin(), nums.end(), 0, bit_or<>());
+        return f(n-1, 0, nums);
     }
 };
 
-static const int speedup = []() {
+
+auto init = []() {
     ios::sync_with_stdio(0);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    return 0;    
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
 }();
