@@ -12,10 +12,13 @@ public:
 
     }
     int countMaxOrSubsets(vector<int>& nums) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
+        
         map<int, int> mp;
         solve(0, nums, mp, 0);
-        auto last = prev(mp.end());
-        
+        auto last = prev(mp.end());        
         return last->second;
     }
 };
