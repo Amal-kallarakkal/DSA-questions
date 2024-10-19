@@ -11,9 +11,9 @@ public:
         string s = "011";
         if(n <= 2) return s[k - 1];
         for(int i = 3 ; i <= n; i++) {
+            if(s.size() >= k) break;
             s += "1" + inverse(s);
         }
-        // cout<<s;
         return s[k - 1];
     }
 };
