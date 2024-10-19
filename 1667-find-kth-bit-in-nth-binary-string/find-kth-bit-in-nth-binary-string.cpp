@@ -8,6 +8,10 @@ public:
     }
 
     char findKthBit(int n, int k) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
+        
         string s = "011";
         if(n <= 2) return s[k - 1];
         for(int i = 3 ; i <= n; i++) {
