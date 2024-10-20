@@ -29,7 +29,6 @@ public:
                         if(top == '!' && ans != -1) ans = !ans;
                     }
                     if(st.size()) st.pop();
-                    // cout<<ans<<" at i = "<<i<<" op: "<<top<<endl;
                     if(ans) st.push('t');
                     else st.push('f');
                 } else st.push(s[i]);
