@@ -13,7 +13,6 @@ public:
             set.erase(ans);
             solve(i+1, ans, set,s, maxi);
         } else {
-            solve(i+1, "", set, s, maxi);
             solve(i+1, ans, set,s, maxi);
         }
                     
