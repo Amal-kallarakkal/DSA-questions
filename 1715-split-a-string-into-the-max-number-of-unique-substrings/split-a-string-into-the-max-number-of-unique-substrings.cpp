@@ -19,6 +19,9 @@ public:
         
     }
     int maxUniqueSplit(string s) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         unordered_set<string> set;
         int maxi = 0;
 
