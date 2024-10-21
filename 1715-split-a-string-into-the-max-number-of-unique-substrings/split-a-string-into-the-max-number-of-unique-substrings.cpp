@@ -1,7 +1,7 @@
 class Solution {
 public:
     void solve(int i, string ans, unordered_set<string> &set, string &s, int &maxi, int cnt) {
-
+        // return if cant reach maxi
         if(maxi >= cnt + (s.size() - i)) return;
         if(i >= s.size()) {
             maxi = max(cnt, maxi);
@@ -16,19 +16,13 @@ public:
             solve(i+1, ans, set,s, maxi, cnt);
         } else {
             solve(i+1, ans, set,s, maxi, cnt);
-        }
-                    
+        }                  
         
     }
     int maxUniqueSplit(string s) {
-        ios::sync_with_stdio(0);
-        cin.tie(NULL);
-        cout.tie(NULL);
         unordered_set<string> set;
         int maxi = 0;
-
-        solve(0, "", set, s, maxi, 0);
-        
+        solve(0, "", set, s, maxi, 0);        
         return maxi;
     }
 };
