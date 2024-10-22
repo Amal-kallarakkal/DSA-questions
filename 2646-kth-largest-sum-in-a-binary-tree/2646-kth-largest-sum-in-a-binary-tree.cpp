@@ -12,7 +12,7 @@
  using ll = long long;
 class Solution {
 public:
-    void solve(TreeNode* root, vector<ll> &sum, int level,  int k) {
+    void solve(TreeNode* root, vector<ll> &sum, int level,  int &k) {
         if(!root) return;
         
         if(sum.size() <= level) sum.push_back(root->val);
