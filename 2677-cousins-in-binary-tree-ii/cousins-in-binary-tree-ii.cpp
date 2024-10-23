@@ -30,9 +30,6 @@ public:
 
         if(root->left) root->left->val = sum[level + 1] - sibsum;
         if(root->right) root->right->val = sum[level + 1] - sibsum;
-        // cout<<root->val<<" : children"<<endl;
-        // cout<<sibsum<<endl;
-
         solve2(root->left, sum, level + 1);
         solve2(root->right, sum, level + 1);
 
