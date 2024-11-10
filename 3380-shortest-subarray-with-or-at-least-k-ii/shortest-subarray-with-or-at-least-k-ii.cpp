@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void change(map<int, int> &mp, int temp , string op) {
+    void change(unordered_map<int, int> &mp, int temp , string op) {
             int i = 0;
             while(temp) {
                 if(temp%2) (op == "+") ?mp[i]++ : mp[i]--;
@@ -9,7 +9,7 @@ public:
             }
     }
 
-    int solve(map<int, int> &mp) {
+    int solve(unordered_map<int, int> &mp) {
         int ans  = 0;
         for(auto x : mp) {
             if(x.second > 0) ans += pow(2, x.first);
@@ -17,10 +17,9 @@ public:
         return ans;
     }
     int minimumSubarrayLength(vector<int>& nums, int k) {
-        int ans = INT_MAX, n = nums.size(), orval = 0, j =0, temp, l;
-        map<int, int> mp;
+        int ans = INT_MAX, n = nums.size(), orval = 0, j =0;
+        unordered_map<int, int> mp;
         for(int i = 0 ; i < n ; i++){
-            temp = nums[i];
             orval |= nums[i];
             change(mp, nums[i], "+");
             while(orval >= k && j <= i ) {
