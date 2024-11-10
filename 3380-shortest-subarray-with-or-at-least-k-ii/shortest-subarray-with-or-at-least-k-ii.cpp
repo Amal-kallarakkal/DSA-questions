@@ -1,18 +1,9 @@
 class Solution {
 public:
-    void add(map<int, int> &mp, int temp ) {
+    void change(map<int, int> &mp, int temp , string op) {
             int i = 0;
             while(temp) {
-                if(temp%2) mp[i]++;
-                temp = temp>>1;
-                i++;
-            }
-    }
-    
-    void remove(map<int, int> &mp, int temp) {
-         int i = 0;
-            while(temp) {
-                if(temp%2) mp[i]--;
+                if(temp%2) (op == "+") ?mp[i]++ : mp[i]--;
                 temp = temp>>1;
                 i++;
             }
@@ -31,10 +22,10 @@ public:
         for(int i = 0 ; i < n ; i++){
             temp = nums[i];
             orval |= nums[i];
-            add(mp, nums[i]);
+            change(mp, nums[i], "+");
             while(orval >= k && j <= i ) {
                 ans = min(ans, i - j + 1);                 
-                remove(mp, nums[j++]);
+                change(mp, nums[j++], "-");
                 orval = solve(mp);
             }          
         }
