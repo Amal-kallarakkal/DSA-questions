@@ -17,6 +17,9 @@ public:
         return ans;
     }
     int minimumSubarrayLength(vector<int>& nums, int k) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int ans = INT_MAX, n = nums.size(), orval = 0, j =0;
         unordered_map<int, int> mp;
         for(int i = 0 ; i < n ; i++){
