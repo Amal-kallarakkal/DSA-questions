@@ -8,7 +8,6 @@ public:
             mid = (l + h)/2;
             sum = curr + nums[mid];
             if(sum >= target) {
-                // cout<<sum<<" >= "<<target<<" , mid:" <<mid<<endl;
                 h = mid - 1;
                 ans = mid;
             }
@@ -34,11 +33,7 @@ public:
         ll cnt = 0;
         int n = nums.size(), sum, l, h, left, right, mid;
         sort(nums.begin(), nums.end());
-        // for(int i = 0 ; i < n ; i++) cout<<i<<" ";
-        // cout<<endl;
-        // for(int i : nums) cout<<i<<" ";
-        // cout<<endl;
-
+        
         for(int i = 0 ; i < n - 1 ; i++) {
             l = i + 1;
             h = n-1;
@@ -50,10 +45,8 @@ public:
                 else l = mid + 1;
             }
             if(sum < lower || sum > upper) continue;
-            // cnt++;
             left = binSrchLeft(i+1, mid, nums, lower, nums[i]);
             right = binSrchRight(mid, n-1, nums, upper, nums[i]);
-            // cout<<nums[i]<<" , left = "<<left<<", right = "<<right<<endl;
             if(left < right) cnt += right - left + 1;
             else cnt++;
 
