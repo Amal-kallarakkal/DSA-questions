@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2846-robot-collisions) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
