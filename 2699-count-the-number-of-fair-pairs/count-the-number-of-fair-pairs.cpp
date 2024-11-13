@@ -2,7 +2,7 @@ using ll = long long;
 class Solution {
 public:
 
-    int binSrch(int l, int h, vector<int>& nums, int &target, int &curr, string dir) {
+    int binSrch(int l, int h, vector<int>& nums, int &target, int &curr, string &dir) {
         int n = nums.size(), sum, ans = -1, mid;
         while(l <= h && l < n && h >=0) {
             mid = (l + h)/2;
@@ -28,6 +28,7 @@ public:
     long long countFairPairs(vector<int>& nums, int lower, int upper) {
         ll cnt = 0;
         int n = nums.size(), sum, l, h, left, right, mid;
+        string lt = "left", rt = "right";
         sort(nums.begin(), nums.end());
         
         for(int i = 0 ; i < n - 1 ; i++) {
@@ -43,8 +44,8 @@ public:
 
             if(sum < lower || sum > upper) continue;
 
-            left = binSrch(i+1, mid, nums, lower, nums[i], "left");
-            right = binSrch(mid, n-1, nums, upper, nums[i], "right");
+            left = binSrch(i+1, mid, nums, lower, nums[i], lt);
+            right = binSrch(mid, n-1, nums, upper, nums[i], rt);
             if(left < right) cnt += right - left + 1;
             else cnt++;
 
