@@ -2,30 +2,26 @@ using ll = long long;
 class Solution {
 public:
 
-    int binSrchLeft(int l, int h, vector<int>& nums, int &target, int &curr) {
+    int binSrch(int l, int h, vector<int>& nums, int &target, int &curr, string dir) {
         int n = nums.size(), sum, ans = -1, mid;
         while(l <= h && l < n && h >=0) {
             mid = (l + h)/2;
-            sum = curr + nums[mid];
-            if(sum >= target) {
-                h = mid - 1;
-                ans = mid;
-            }
-            else l = mid + 1;
-        }
-        return ans;
-    }
+            sum = curr + nums[mid];   
+            if(dir == "left") {
+                if(sum >= target) {
+                    h = mid - 1;
+                    ans = mid;
+                }
+                else l = mid + 1;
 
-    int binSrchRight(int l, int h, vector<int>& nums, int &target, int &curr) {
-        int n = nums.size(), sum, ans = -1, mid;
-        while(l <= h && l < n && h >=0) {
-            mid = (l + h)/2;
-            sum = curr + nums[mid];            
-            if(sum <= target) {
-                l = mid + 1;
-                ans = mid;
-            }
-            else h = mid - 1;
+            } else {
+                if(sum <= target) {
+                    l = mid + 1;
+                    ans = mid;
+                }
+                else h = mid - 1;
+            }   
+            
         }
         return ans;
     }
@@ -44,9 +40,11 @@ public:
                 else if(sum > upper) h = mid - 1;
                 else l = mid + 1;
             }
+
             if(sum < lower || sum > upper) continue;
-            left = binSrchLeft(i+1, mid, nums, lower, nums[i]);
-            right = binSrchRight(mid, n-1, nums, upper, nums[i]);
+
+            left = binSrch(i+1, mid, nums, lower, nums[i], "left");
+            right = binSrch(mid, n-1, nums, upper, nums[i], "right");
             if(left < right) cnt += right - left + 1;
             else cnt++;
 
