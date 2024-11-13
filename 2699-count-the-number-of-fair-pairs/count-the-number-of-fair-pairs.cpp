@@ -2,35 +2,43 @@ using ll = long long;
 class Solution {
 public:
 
-    int binSrch(int l, int h, vector<int>& nums, int &target, int &curr, string &dir) {
+    int binSrchLeft(int l, int h, vector<int>& nums, int &target, int &curr) {
         int n = nums.size(), sum, ans = -1, mid;
         while(l <= h && l < n && h >=0) {
             mid = (l + h)/2;
-            sum = curr + nums[mid];   
-            if(dir == "left") {
-                if(sum >= target) {
-                    h = mid - 1;
-                    ans = mid;
-                }
-                else l = mid + 1;
+            sum = curr + nums[mid];
+            if(sum >= target) {
+                // cout<<sum<<" >= "<<target<<" , mid:" <<mid<<endl;
+                h = mid - 1;
+                ans = mid;
+            }
+            else l = mid + 1;
+        }
+        return ans;
+    }
 
-            } else {
-                if(sum <= target) {
-                    l = mid + 1;
-                    ans = mid;
-                }
-                else h = mid - 1;
-            }   
-            
+    int binSrchRight(int l, int h, vector<int>& nums, int &target, int &curr) {
+        int n = nums.size(), sum, ans = -1, mid;
+        while(l <= h && l < n && h >=0) {
+            mid = (l + h)/2;
+            sum = curr + nums[mid];            
+            if(sum <= target) {
+                l = mid + 1;
+                ans = mid;
+            }
+            else h = mid - 1;
         }
         return ans;
     }
     long long countFairPairs(vector<int>& nums, int lower, int upper) {
         ll cnt = 0;
         int n = nums.size(), sum, l, h, left, right, mid;
-        string lt = "left", rt = "right";
         sort(nums.begin(), nums.end());
-        
+        // for(int i = 0 ; i < n ; i++) cout<<i<<" ";
+        // cout<<endl;
+        // for(int i : nums) cout<<i<<" ";
+        // cout<<endl;
+
         for(int i = 0 ; i < n - 1 ; i++) {
             l = i + 1;
             h = n-1;
@@ -41,11 +49,11 @@ public:
                 else if(sum > upper) h = mid - 1;
                 else l = mid + 1;
             }
-
             if(sum < lower || sum > upper) continue;
-
-            left = binSrch(i+1, mid, nums, lower, nums[i], lt);
-            right = binSrch(mid, n-1, nums, upper, nums[i], rt);
+            // cnt++;
+            left = binSrchLeft(i+1, mid, nums, lower, nums[i]);
+            right = binSrchRight(mid, n-1, nums, upper, nums[i]);
+            // cout<<nums[i]<<" , left = "<<left<<", right = "<<right<<endl;
             if(left < right) cnt += right - left + 1;
             else cnt++;
 
