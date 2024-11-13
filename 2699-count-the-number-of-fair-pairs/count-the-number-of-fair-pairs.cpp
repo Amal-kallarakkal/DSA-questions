@@ -30,6 +30,7 @@ public:
         return ans;
     }
     long long countFairPairs(vector<int>& nums, int lower, int upper) {
+        ios::sync_with_stdio(0);
         ll cnt = 0;
         int n = nums.size(), sum, l, h, left, right, mid;
         sort(nums.begin(), nums.end());
