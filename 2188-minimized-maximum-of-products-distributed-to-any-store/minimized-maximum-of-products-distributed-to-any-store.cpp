@@ -11,15 +11,12 @@ public:
         return false;
     }
     int BinSrch(int l, int h, vector<int> &nums, int &n) {
-        if(l >= h) return l;
+        if(l >= h) return h;
 
         mid = (l + h)/2;
 
-        if(Possible(mid, n, nums)) {
-            return BinSrch(l, mid, nums, n);
-        } else {
-            return BinSrch(mid + 1, h, nums, n);
-        }
+        if(Possible(mid, n, nums)) return BinSrch(l, mid, nums, n);
+        else return BinSrch(mid + 1, h, nums, n);
 
         return -1;
     }
