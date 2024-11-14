@@ -2,7 +2,7 @@ class Solution {
 public:
     int mid;
 
-    bool Possible(int &mid,int &n, vector<int> &nums) {
+    bool Possible(int &n, vector<int> &nums) {
         int sum = 0;
         for(int i = 0 ; i < nums.size(); i++) {
             sum += ceil((nums[i]*1.0)/mid);
@@ -15,7 +15,7 @@ public:
 
         mid = (l + h)/2;
 
-        if(Possible(mid, n, nums)) return BinSrch(l, mid, nums, n);
+        if(Possible(n, nums)) return BinSrch(l, mid, nums, n);
         else return BinSrch(mid + 1, h, nums, n);
 
         return -1;
