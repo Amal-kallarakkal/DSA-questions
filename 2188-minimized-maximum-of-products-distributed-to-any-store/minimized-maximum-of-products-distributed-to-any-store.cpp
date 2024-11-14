@@ -21,10 +21,10 @@ public:
         return -1;
     }
     int minimizedMaximum(int n, vector<int>& nums) {
-        int m = nums.size();
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         sort(nums.begin(), nums.end());
-        // if(n == m) return nums[m - 1];
-
-        return BinSrch(1, nums[m-1], nums, n);
+        return BinSrch(1, nums[nums.size() - 1], nums, n);
     }
 };
