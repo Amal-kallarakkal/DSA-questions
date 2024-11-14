@@ -1,7 +1,6 @@
 class Solution {
 public:
     int mid;
-
     bool Possible(int &n, vector<int> &nums) {
         int sum = 0;
         for(int i = 0 ; i < nums.size(); i++) sum += ceil((nums[i]*1.0)/mid);
@@ -10,8 +9,9 @@ public:
     }
     
     int minimizedMaximum(int n, vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        // sort(nums.begin(), nums.end());
         int l = 1, m = nums.size(), h = nums[m-1];
+        for(int i : nums) h = max(h, i);
         while(l < h) {
             mid = (l + h)/2;
             if(Possible(n, nums)) h = mid;
