@@ -23,8 +23,8 @@ public:
     int minimizedMaximum(int n, vector<int>& nums) {
         int m = nums.size();
         sort(nums.begin(), nums.end());
+        // if(n == m) return nums[m - 1];
 
-        if(n == m) return nums[m - 1];
         return BinSrch(1, nums[m-1], nums, n);
     }
 };
