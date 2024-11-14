@@ -21,9 +21,6 @@ public:
         return -1;
     }
     int minimizedMaximum(int n, vector<int>& nums) {
-        ios::sync_with_stdio(0);
-        cin.tie(NULL);
-        cout.tie(NULL);
         sort(nums.begin(), nums.end());
         return BinSrch(1, nums[nums.size() - 1], nums, n);
     }
