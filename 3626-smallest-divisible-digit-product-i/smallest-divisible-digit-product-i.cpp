@@ -3,7 +3,7 @@ public:
     int smallestNumber(int n, int t) {
         int temp = n, prod = 1;
 
-        for(int i = 0 ; i < 100; i++) {
+        for(int i = 0 ; i < 10; i++) {
             temp = n + i, prod = 1;
             while(temp) {
                 prod *= temp%10;
