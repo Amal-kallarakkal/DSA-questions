@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0940-fruit-into-baskets) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0643-maximum-average-subarray-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0209-minimum-size-subarray-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1694-make-sum-divisible-by-p) |
@@ -491,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1325-path-with-maximum-probability) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -556,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -564,4 +570,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
