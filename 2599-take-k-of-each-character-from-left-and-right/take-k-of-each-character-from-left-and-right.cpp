@@ -15,7 +15,7 @@ public:
 
         if(!(ca >= k && cb >= k && cc >= k)) return -1;
 
-        while(l < n && r < n) {
+        while(r < n) {
             while(r < n &&(ca >= k && cb >= k && cc >= k)) {
                 if(s[r] == 'a') ca--;
                 else if(s[r] == 'b') cb--;
