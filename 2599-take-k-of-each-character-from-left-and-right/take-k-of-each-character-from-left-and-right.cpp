@@ -1,6 +1,9 @@
 class Solution {
 public:
     int takeCharacters(string s, int k) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         unordered_map<int, int> mp;
         int maxi = 0, n = s.size(), l = 0, r = l;
 
