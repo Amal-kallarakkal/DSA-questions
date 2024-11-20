@@ -4,7 +4,7 @@ public:
         ios::sync_with_stdio(0);
         cin.tie(NULL);
         cout.tie(NULL);
-        unordered_map<int, int> mp;
+        map<int, int> mp;
         int maxi = 0, n = s.size(), l = 0, r = l;
 
         for(int i = 0; i < n; i++) {
