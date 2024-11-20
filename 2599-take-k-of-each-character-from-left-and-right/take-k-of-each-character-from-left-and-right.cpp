@@ -10,7 +10,7 @@ public:
         for(int i = 0; i < n; i++) {
             if(s[i] == 'a') ca++;
             else if(s[i] == 'b') cb++;
-            else if(s[i] == 'c') cc++;            
+            else  cc++;            
         }
 
         if(!(ca >= k && cb >= k && cc >= k)) return -1;
@@ -19,13 +19,13 @@ public:
             while(r < n &&(ca >= k && cb >= k && cc >= k)) {
                 if(s[r] == 'a') ca--;
                 else if(s[r] == 'b') cb--;
-                else if(s[r] == 'c') cc--;  
+                else  cc--;  
                 if((ca >= k && cb >= k && cc >= k)) maxi = max(maxi, r - l + 1);
                 r++;
             }            
             if(s[l] == 'a') ca++;
             else if(s[l] == 'b') cb++;
-            else if(s[l] == 'c') cc++;    
+            else cc++;    
             l++;     
         }
 
