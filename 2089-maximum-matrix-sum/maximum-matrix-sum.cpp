@@ -2,6 +2,9 @@ using ll = long long;
 class Solution {
 public:
     long long maxMatrixSum(vector<vector<int>>& matrix) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         ll sum = 0;
         int mini = INT_MAX, n = matrix.size(), neg = 0;
         for(int i = 0; i < n; i++) {
