@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
+| [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0207-course-schedule) |
+| [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
