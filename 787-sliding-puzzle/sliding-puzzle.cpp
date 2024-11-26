@@ -13,7 +13,7 @@ public:
         q.push({{-1, -1}, {}});
         visited.insert(board);
 
-        while(!q.empty() && cnt < 50) {
+        while(!q.empty() && cnt < 36) {
             
             top = q.front().second;
             x = q.front().first.first;
@@ -42,6 +42,6 @@ public:
             }
 
         }
-        return (cnt >= 50)? -1 : cnt;
+        return (cnt >= 36)? -1 : cnt;
     }
 };
