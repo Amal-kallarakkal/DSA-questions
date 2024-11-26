@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1908-recyclable-and-low-fat-products) |
 ## Strongly Connected Component
 |  |
 | ------- |
