@@ -3,18 +3,17 @@ public:
     int isPrefixOfWord(string s, string word) {
         int cnt = 0;
         string sub = "", item, temp;
-        map<int, string> mp;
+        vector<string> mp;
         stringstream ss(s);
 
         while(ss >> item) {
-            mp[++cnt] = item;
+            mp.push_back(item);
         }
-        for(auto i : mp) {
-            // cout<<i.first<<" : "<<i.second<<endl;
-            temp = i.second;
+        for(int i = 0 ; i < mp.size(); i++) {
+            temp = mp[i];
             if(temp.size() >= word.size()) {
                 sub = temp.substr(0, word.size());
-                if(sub == word) return i.first;
+                if(sub == word) return i + 1;
             }
         }
         return -1;
