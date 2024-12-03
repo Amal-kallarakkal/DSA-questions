@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>>& queries) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int m = queries.size(), D, curr;
         vector<int> ans(m), dist(n);
         vector<vector<int>> adj(n);
