@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool possible(int mid, vector<int> &nums, int &max) {
+    bool possible(int &mid, vector<int> &nums, int &max) {
         int sum = 0;
         for(int i = 0 ; i < nums.size(); i++) {
             sum += ceil(nums[i]*1.0/mid) - 1;
@@ -9,6 +9,9 @@ public:
         return true;
     }
     int minimumSize(vector<int>& nums, int maxOperations) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int low = 1, high, mid, ans;  
         sort(nums.rbegin(), nums.rend())      ;
         high = nums[0];
