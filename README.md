@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1803-average-waiting-time) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1983-maximum-population-year) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3427-special-array-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3427-special-array-ii) |
