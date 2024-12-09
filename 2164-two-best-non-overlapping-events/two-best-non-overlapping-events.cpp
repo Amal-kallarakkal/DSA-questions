@@ -1,9 +1,11 @@
 class Solution {
 public:
     int maxTwoEvents(vector<vector<int>>& events) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int n = events.size(), maxi = 0, ans = 0, sum, target, l, h, mid, curr;
         vector<int> mp(n);
-        // unordered_map<int, int> mp;
         sort(events.begin(), events.end());
 
         for(int i = n - 1 ; i >= 0; i--) {
