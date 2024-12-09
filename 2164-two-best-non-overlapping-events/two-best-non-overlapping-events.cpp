@@ -2,7 +2,8 @@ class Solution {
 public:
     int maxTwoEvents(vector<vector<int>>& events) {
         int n = events.size(), maxi = 0, ans = 0, sum, target, l, h, mid, curr;
-        map<int, int> mp;
+        // vector<int> mp(1e6);
+        unordered_map<int, int> mp;
         sort(events.begin(), events.end());
 
         for(int i = n - 1 ; i >= 0; i--) {
