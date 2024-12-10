@@ -2,6 +2,7 @@ class Solution {
 public:
     int possible(int mid, string &s) {
         int cnt = 0, curr;
+        if(mid == 0) return true;
         unordered_map<char, int> mp;
         if(mid == 1) {
             for(int i = 0 ; i <= s.size(); i++) {
@@ -27,7 +28,6 @@ public:
         int ans = -1, h = s.size(), l = 0, mid;
         while(l <= h) {
             mid = (l + h)/2;
-            // cout<<mid<<endl;
             if(possible(mid, s)) {
                 ans = mid;
                 l = mid + 1;
