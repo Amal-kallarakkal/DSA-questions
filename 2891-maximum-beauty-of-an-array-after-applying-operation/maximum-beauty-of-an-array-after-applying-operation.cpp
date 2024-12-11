@@ -13,6 +13,7 @@ public:
                 } else h = mid - 1;
             }
             ans = max(ans, h - i + 1);
+            if(h == n-1) return ans;
         }
         return ans;
     }
