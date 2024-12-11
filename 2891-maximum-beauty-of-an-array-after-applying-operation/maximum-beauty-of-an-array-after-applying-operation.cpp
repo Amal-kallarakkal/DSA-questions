@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maximumBeauty(vector<int>& nums, int k) {
+        ios::sync_with_stdio(0);
         int n = nums.size(), l, h, mid, ans = 0;
         sort(nums.begin(), nums.end());
         for(int i = 0 ; i < n; i++) {
