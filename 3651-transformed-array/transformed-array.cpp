@@ -4,13 +4,9 @@ public:
         int n = nums.size(), j;
         vector<int> ans(n);
         for(int i = 0 ; i < n ; i++) {
-            if(nums[i]>= 0) {
-                ans[i] = nums[(i + nums[i])%n];
-            } else {
-                j = (i + nums[i])%n;
-                if(j < 0) j += n;
-                ans[i] = nums[j];
-            }
+            j = (i + nums[i])%n;
+            if(j < 0) j += n;
+            ans[i] = nums[j];
         }
         return ans;
     }
