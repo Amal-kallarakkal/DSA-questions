@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1983-maximum-population-year) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1917-maximum-average-pass-ratio](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1917-maximum-average-pass-ratio) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1325-path-with-maximum-probability) |
+| [1917-maximum-average-pass-ratio](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1917-maximum-average-pass-ratio) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2803-modify-graph-edge-weights) |
