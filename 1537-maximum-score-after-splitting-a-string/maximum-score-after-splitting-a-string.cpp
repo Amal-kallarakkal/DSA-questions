@@ -1,10 +1,9 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int ans, zcnt = 0, ocnt = 0;
+        int ans = 0, zcnt = 0, ocnt = 0;
         vector<int> one(s.size(), 0), zero(s.size(), 0);
-        for(int i = 0, j; i < s.size(); i++) {
-            
+        for(int i = 0, j; i < s.size(); i++) {            
             if(s[i] == '0') {
                 zcnt++;
                 zero[i] = zcnt;
@@ -17,7 +16,6 @@ public:
         }
         for(int i = 0 ; i < s.size() - 1; i++) {
             ans = max(ans, one[i + 1] + zero[i]);
-            cout<<one[i]<<" , "<<zero[i]<<endl;
         }
 
         return ans;
