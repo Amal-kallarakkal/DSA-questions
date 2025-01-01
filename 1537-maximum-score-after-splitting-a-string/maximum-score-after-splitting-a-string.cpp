@@ -3,7 +3,7 @@ public:
     int maxScore(string s) {
         int ans = 0, zcnt = 0, ocnt = 0;
         vector<int> one(s.size(), 0), zero(s.size(), 0);
-        for(int i = 0, j; i < s.size(); i++) {            
+        for(int i = 0, j; i < s.size() - 1; i++) {            
             if(s[i] == '0') {
                 zcnt++;
                 zero[i] = zcnt;
