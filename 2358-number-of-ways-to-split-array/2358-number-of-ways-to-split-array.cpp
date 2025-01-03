@@ -1,8 +1,9 @@
+using ll = long long int;
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
-        long long int n = nums.size(), fsum = 0, bsum = 0, ans = 0;
-        vector<long long int> fw(n), bw(n);
+        ll n = nums.size(), fsum = 0, bsum = 0, ans = 0;
+        vector<ll> fw(n), bw(n);
         for(int i = 0 ; i < n; i++) {
             fsum += nums[i];
             bsum += nums[n-i-1];
