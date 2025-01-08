@@ -4,7 +4,6 @@ public:
         if(sub.size() > s.size()) return false;
         int n = sub.size(), m = s.size();
         string prefix = s.substr(0, n), suffix = s.substr(m - n, n);
-        cout<<s<<" : pre = "<<prefix<<" , suf = "<<suffix<<endl;
         if(sub == prefix && sub == suffix) return true;
         return false;
     }
