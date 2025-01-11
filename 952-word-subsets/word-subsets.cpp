@@ -1,39 +1,34 @@
 class Solution {
 public:
-    vector<string> wordSubsets(vector<string>& mainWords, vector<string>& requiredWords) {
-        int maxCharFreq[26] = {0};
-        int tempCharFreq[26];
-        
-        for (const auto& word : requiredWords) {
-            memset(tempCharFreq, 0, sizeof tempCharFreq);//To Set Temp freq all to zero 
-//You can do vector<int> tempCharFreq(26,0);
-            for (char ch : word) {
-                tempCharFreq[ch - 'a']++;
+    vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
+        map<char, int> maxi;
+        vector<string> ans;
+        int n = words2.size(), m = words1.size();
+        for(string s : words2) {
+            map<char, int> mp;
+            for( char i : s) {
+                mp[i]++;
             }
-            for (int i = 0; i < 26; ++i) {
-                maxCharFreq[i] = max(maxCharFreq[i], tempCharFreq[i]);
+            for(auto x : mp) {
+                if(maxi[x.first] < x.second) {
+                    maxi[x.first] = x.second;
+                }
             }
         }
         
-        vector<string> universalWords;
-        
-        for (const auto& word : mainWords) {
-            memset(tempCharFreq, 0, sizeof tempCharFreq);
-            for (char ch : word) {
-                tempCharFreq[ch - 'a']++;
+        for(string s : words1) {
+            map<char, int> mp;
+            for( char i : s) {
+                mp[i]++;
             }
-            bool isUniversal = true;
-            for (int i = 0; i < 26; ++i) {
-                if (maxCharFreq[i] > tempCharFreq[i]) {
-                    isUniversal = false;
+            ans.push_back(s);
+            for(auto x : maxi) {
+                if(mp[x.first] < x.second) {
+                    ans.pop_back();
                     break;
                 }
             }
-            if (isUniversal) {
-                universalWords.emplace_back(word);
-            }
         }
-        
-        return universalWords;
+        return ans;
     }
 };
