@@ -10,7 +10,6 @@ public:
             } else wildcnt++;
             if(closecnt > opencnt + wildcnt) return false;
         }
-        cout<<"reverse pass"<<endl;
         opencnt = 0, closecnt = 0, wildcnt = 0;
         for(int i = n-1; i >= 0; i--) {
             if(locked[i] == '1') {
