@@ -1,9 +1,6 @@
 class Solution {
 public:
     int firstCompleteIndex(vector<int>& arr, vector<vector<int>>& mat) {
-        ios::sync_with_stdio(0);
-        cin.tie(NULL);
-        cout.tie(NULL);
 
         int ans = 0, row = mat.size(), col = mat[0].size();
         unordered_map<int, pair<int, int>> mp;
