@@ -5,15 +5,13 @@ public:
         vector<int> RowSum(row), ColSum(col);
         for(int i = 0; i < row; i++) {
             for(int j = 0; j < col; j++) {
-                if(grid[i][j]) total++;
+                if(grid[i][j]) { 
+                    RowSum[i]++;
+                    total++;
+                }
             }
         }
-        for(int i = 0; i < row; i++) {
-            for(int j = 0; j < col; j++) {
-                if(grid[i][j]) RowSum[i]++;
-            }
-        }
-
+       
         for(int i = 0; i < col; i++) {
             for(int j = 0; j < row; j++) {
                 if(grid[j][i]) ColSum[i]++;
