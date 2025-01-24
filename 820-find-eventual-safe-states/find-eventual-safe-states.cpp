@@ -20,8 +20,7 @@ public:
         vector<int> ans;
         unordered_set<int> set;
         vector<int> visited(v, 0);
-        vector<int> path(v, 0);
-        
+        vector<int> path(v, 0);        
 
         for(int i = 0 ; i < v; i++) {
             if(graph[i].size() == 0) {
