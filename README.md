@@ -433,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1207-delete-nodes-and-return-forest) |
 | [1396-count-servers-that-communicate](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2201-valid-arrangement-of-pairs) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2472-build-a-matrix-with-conditions) |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2472-build-a-matrix-with-conditions) |
 ## Shortest Path
@@ -535,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1876-map-of-highest-peak) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
