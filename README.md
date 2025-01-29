@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0386-lexicographical-numbers) |
+| [0684-redundant-connection](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
@@ -551,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2764-maximum-number-of-fish-in-a-grid) |
