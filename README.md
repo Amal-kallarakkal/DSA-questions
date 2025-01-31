@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
 | [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1207-delete-nodes-and-return-forest) |
 | [1396-count-servers-that-communicate](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1396-count-servers-that-communicate) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1396-count-servers-that-communicate) |
@@ -541,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1484-linked-list-in-binary-tree) |
@@ -557,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
