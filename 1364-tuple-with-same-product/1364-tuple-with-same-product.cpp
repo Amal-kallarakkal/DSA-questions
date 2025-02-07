@@ -1,9 +1,6 @@
 class Solution {
 public:
-    int nC2(int n) {
-        if(n <= 2) return n;
-        return n*(n-1);
-    }
+    
     int tupleSameProduct(vector<int>& nums) {
         int cnt = 0, n = nums.size();
         unordered_map<int, int> mp;
@@ -12,7 +9,7 @@ public:
         }
         for(auto x : mp) {
             if(x.second > 1) {
-                cnt += nC2(x.second); 
+                cnt += (x.second)*(x.second - 1); 
             }
         }
         return cnt*4;
