@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2685-first-completely-painted-row-or-column) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2299-merge-nodes-in-between-zeros](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2846-robot-collisions) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Stack
 |  |
 | ------- |
