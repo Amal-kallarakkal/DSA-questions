@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0859-design-circular-deque) |
+| [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1917-maximum-average-pass-ratio) |
+| [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2803-modify-graph-edge-weights) |
@@ -680,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
+| [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
