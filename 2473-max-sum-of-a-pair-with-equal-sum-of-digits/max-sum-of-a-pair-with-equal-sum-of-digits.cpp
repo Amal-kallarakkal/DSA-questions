@@ -11,7 +11,7 @@ public:
                 digitsum += temp%10;
                 temp /= 10 ;
             }
-            cout<<digitsum<<endl;
+            // cout<<digitsum<<endl;
             sum[digitsum].push_back(nums[i]);
         }
         for(auto num : sum) {
