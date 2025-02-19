@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0040-combination-sum-ii) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
