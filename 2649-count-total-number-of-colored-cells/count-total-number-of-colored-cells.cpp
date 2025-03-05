@@ -3,9 +3,8 @@ class Solution {
 public:
     long long coloredCells(int n) {
         ll ans = 1;
-        for(int i = 1 ; i < n; i++) {
-            ans += i*4;
-        }
+        ll m = n;
+        ans = 2*m*m - 2*m + 1;
         return ans;
     }
 };
