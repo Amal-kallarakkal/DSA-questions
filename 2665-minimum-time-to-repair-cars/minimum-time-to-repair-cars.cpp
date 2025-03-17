@@ -1,26 +1,27 @@
+using ll = long long;
 class Solution {
 public:
-    long long repairCars(vector<int>& ranks, int cars) {
-        long long left = 1, right = (long long)*min_element(ranks.begin(), ranks.end()) * cars * cars;
-        
-        auto can_repair_all = [&](long long time) {
-            long long total_cars_repaired = 0;
-            for (int rank : ranks) {
-                total_cars_repaired += sqrt(time / rank);
-                if (total_cars_repaired >= cars) return true;
-            }
-            return false;
-        };
-        
-        while (left < right) {
-            long long mid = (left + right) / 2;
-            if (can_repair_all(mid)) {
-                right = mid;
-            } else {
-                left = mid + 1;
-            }
+    bool possible(ll mid, vector<int> &nums, int k) {
+        ll j;
+        for(int i = 0; i < nums.size(); i++) {
+            if(nums[i] > mid) return false;
+            j = sqrt(mid / (double)nums[i]);
+            k -= j;
+            if(k <= 0) return true;            
         }
-        
-        return left;
+        return false;
+    }
+    long long repairCars(vector<int>& nums, int cars) {
+        ll l, h, mid, n = nums.size(), min = pow(ceil((cars*1.0)/n), 2);
+        sort(nums.begin(), nums.end());
+        l = 1;
+        h = min*nums[n-1];
+        while(l < h) {
+            mid = (h + l)/2;
+            if(possible(mid, nums, cars)) {
+                h = mid;
+            } else l = mid + 1;
+        }
+        return h;
     }
 };
