@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3430-count-days-without-meetings) |
 ## Greedy
 |  |
 | ------- |
