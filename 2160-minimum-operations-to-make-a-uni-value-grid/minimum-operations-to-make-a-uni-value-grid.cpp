@@ -13,9 +13,9 @@ public:
         median =  nums[n/2];
         
         for(int i : nums) {
-            mul = abs(i - median);
-            if(mul%x) return -1;
-            sum += mul/x;
+            // mul = abs(i - median);
+            if(abs(i - median)%x) return -1;
+            sum += abs(i - median)/x;
         }
         return sum;
 
