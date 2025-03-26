@@ -15,7 +15,7 @@ public:
         for(int i : nums) {
             mul = abs(i - median);
             if(mul%x) return -1;
-            sum += abs(i - median)/x;
+            sum += mul/x;
         }
         return sum;
 
