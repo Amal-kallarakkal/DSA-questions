@@ -10,10 +10,10 @@ public:
         for(auto x: mp) {
             pq.push({x.second, x.first});
         }
-        
+
         int top = pq.top().first, n = nums.size(), x, cnt = 0;
 
-        while(!pq.empty() && top*2 > n) {            
+        // while(!pq.empty() && top*2 > n) {            
             x = pq.top().second;
             cnt = 0;
             for(int i = 0; i < n; i++) {
@@ -22,9 +22,9 @@ public:
                     if((top - cnt)*2 > n - i - 1) return i;
                 }
             }
-            pq.pop();
-            top = pq.top().first;
-        }
+            // pq.pop();
+            // top = pq.top().first;
+        // }
         return -1;
     }
 };
