@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1170-shortest-common-supersequence) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0906-walking-robot-simulation) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0768-partition-labels) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1972-rotating-the-box) |
@@ -418,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0768-partition-labels) |
 | [1304-longest-happy-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
