@@ -29,7 +29,6 @@ public:
         map<TreeNode*, TreeNode*> parent;
         solve(0, root, parent, mp);
 
-        // cout<<"last lvl: "<<(--mp.end())->first; 
         vector<TreeNode*> leaf = (--mp.end())->second;
         if(leaf.size() == 1) return leaf[0];
         else {
