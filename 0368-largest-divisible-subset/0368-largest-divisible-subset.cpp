@@ -23,12 +23,12 @@ public:
                 maxInd = i;
             }
         }
-
          
         while(maxInd >= 0) {
             ans.push_back(nums[maxInd]);
             maxInd = PrevMaxLocation[maxInd];
         }
+        
         return ans;
     }
 };
