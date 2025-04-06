@@ -18,23 +18,17 @@ public:
                 }
             }
             dp[i] += maxCurr;
-        }
-
-        // for(int x : dp ) cout<<x<<" ";
-        // cout<<endl;
-
-        for(int i = 1; i < n; i++) {
             if(maxLen < dp[i]) {
                 maxLen = dp[i];
                 maxInd = i;
             }
         }
-        
+
+         
         while(maxInd >= 0) {
             ans.push_back(nums[maxInd]);
             maxInd = PrevMaxLocation[maxInd];
         }
-        // cout<<dp[]
         return ans;
     }
 };
