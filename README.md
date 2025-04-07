@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0643-maximum-average-subarray-i) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0650-2-keys-keyboard) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1170-shortest-common-supersequence) |
