@@ -12,9 +12,6 @@ public:
             if(num2[i] > 1) maxi = i;
         }
 
-        for(int i : num2) cout<<i<<" ";
-        cout<<endl<<" ans : "<<maxi;
-
         return (maxi > -1) ? ceil((maxi + 1)*1.0/3) : 0;
     }
 };
