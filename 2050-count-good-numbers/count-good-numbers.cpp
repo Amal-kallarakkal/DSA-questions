@@ -1,23 +1,14 @@
 class Solution {
 public:
-    const long long MOD = 1e9 + 7;
-
-    long long modPow(long long base, long long exp, long long mod) {
-        long long result = 1;
-        base %= mod;
-        while (exp > 0) {
-            if (exp % 2 == 1)
-                result = (result * base) % mod;
-            base = (base * base) % mod;
-            exp /= 2;
-        }
-        return result;
+    int m = 1000000007;
+    int Pow(long long x, long long n) {
+        if(n == 0) return 1;
+        if(n == 1) return x;
+        if(n%2) return (x * Pow(((x)%m * (x)%m)%m, n/2))%m;
+        return Pow(((x)%m * (x)%m)%m, n/2)%m;
     }
+    int countGoodNumbers(long long n) {                
+        return (1LL * Pow(5,n - n/2) % m * Pow(4, n/2) % m) % m;
 
-    int countGoodNumbers(long long n) {
-        long long evens = (n + 1) / 2;
-        long long odds = n / 2;
-
-        return (modPow(5, evens, MOD) * modPow(4, odds, MOD)) % MOD;
     }
 };
