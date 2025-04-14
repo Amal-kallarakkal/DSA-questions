@@ -662,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0539-minimum-time-difference) |
@@ -874,4 +875,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
