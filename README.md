@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2358-number-of-ways-to-split-array) |
