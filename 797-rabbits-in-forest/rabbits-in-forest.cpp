@@ -8,9 +8,7 @@ public:
             else ans++;
         }
         for(auto i : mp) {
-            if(i.first + 1 < i.second) ans += (i.first + 1)*(ceil(i.second*1.0/(i.first + 1)));
-            else ans += i.first + 1;
-            // cout<<"ans after "<<i.first<<" -> "<<i.second<<" : "<<ans<<endl;
+            ans += (i.first + 1)*(ceil(i.second*1.0/(i.first + 1)));
         }
         return ans;
     }
