@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3637-count-number-of-balanced-permutations) |
 ## Trie
 |  |
 | ------- |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3637-count-number-of-balanced-permutations) |
 ## Tree
 |  |
 | ------- |
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3637-count-number-of-balanced-permutations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -921,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
