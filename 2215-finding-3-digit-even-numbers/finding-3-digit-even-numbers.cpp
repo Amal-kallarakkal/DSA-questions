@@ -10,8 +10,8 @@ public:
         }
 
         for(int i = 100; i < 999; i++) {
-           mp2.clear();
            if(i%2) continue;
+           mp2.clear();
            curr = i;
            check = true;
 
