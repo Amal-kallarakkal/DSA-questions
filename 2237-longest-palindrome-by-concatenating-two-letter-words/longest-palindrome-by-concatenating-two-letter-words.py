@@ -9,7 +9,7 @@ class Solution:
             rev = key[::-1]
             if key == rev:
                 ans += (freq[key]//2)*4
-                if freq[key]%2 == 1 and not hasCenter:
+                if freq[key]%2 == 1 :
                     hasCenter = True
             else:
                 ans += min(freq[rev], freq[key]) * 4
