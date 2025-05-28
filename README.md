@@ -603,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
 | ------- |
