@@ -5,6 +5,7 @@ public:
         queue<int> q;
         set<int> closed;
         int ini = initialBoxes.size();
+        
         for(int i = 0; i < ini; i++) {
             q.push(initialBoxes[i]);
         }
