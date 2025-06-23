@@ -788,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2649-count-total-number-of-colored-cells) |
@@ -987,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
