@@ -610,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1043,5 +1044,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
