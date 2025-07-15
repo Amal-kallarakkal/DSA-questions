@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
