@@ -1,6 +1,10 @@
 class Solution {
 public:
     vector<string> removeSubfolders(vector<string>& folder) {
+        ios::sync_with_stdio(0);
+        cin.tie(NULL);
+        cout.tie(NULL);
+        
         string temp , check;
         sort(folder.begin(), folder.end());
         for(int i = 0 ; i < folder.size() - 1; i++) {
