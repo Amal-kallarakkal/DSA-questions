@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3227-find-missing-and-repeated-values) |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2689-rearranging-fruits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
