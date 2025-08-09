@@ -812,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0539-minimum-time-difference) |
@@ -974,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0231-power-of-two) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1071,6 +1073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
