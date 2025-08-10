@@ -3,7 +3,7 @@ class Solution:
         if n & (n-1) == 0 : 
             return True
         
-        def Digit_sig(x) :
+        def Digit_sig(x: int) -> str:
             return tuple(sorted(str(x)))
 
         TwoPowerSet = {Digit_sig(1<<i) for i in range(31)}
