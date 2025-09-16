@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2846-robot-collisions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2846-robot-collisions) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3447-clear-digits) |
@@ -842,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2649-count-total-number-of-colored-cells) |
@@ -985,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
