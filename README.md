@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2411-spiral-matrix-iv) |
+| [2429-design-a-food-rating-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2429-design-a-food-rating-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2429-design-a-food-rating-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -930,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1477-product-of-the-last-k-numbers) |
+| [2429-design-a-food-rating-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
@@ -948,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2479-meeting-rooms-iii) |
@@ -1041,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
+| [2429-design-a-food-rating-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
