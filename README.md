@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3797-design-spreadsheet](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -495,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -940,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1054,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2434-design-a-number-container-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -1062,6 +1067,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
