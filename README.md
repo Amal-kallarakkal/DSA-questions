@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0539-minimum-time-difference) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0424-longest-repeating-character-replacement) |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0050-powx-n) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0368-largest-divisible-subset) |
