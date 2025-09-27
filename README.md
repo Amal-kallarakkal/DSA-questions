@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0729-my-calendar-i) |
 | [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
+| [0830-largest-triangle-area](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
@@ -846,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0670-maximum-swap) |
+| [0830-largest-triangle-area](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0900-reordered-power-of-2) |
 | [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
@@ -1001,6 +1003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0830-largest-triangle-area) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
