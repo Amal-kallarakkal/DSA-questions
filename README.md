@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0999-regions-cut-by-slashes) |
+| [1018-largest-perimeter-triangle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0726-number-of-atoms) |
 | [0900-reordered-power-of-2](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0768-partition-labels) |
+| [1018-largest-perimeter-triangle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -850,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1018-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1240-stone-game-ii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1477-product-of-the-last-k-numbers) |
