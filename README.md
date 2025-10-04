@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0624-maximum-distance-in-arrays) |
@@ -742,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0870-magic-squares-in-grid) |
@@ -889,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0207-course-schedule) |
+| [0407-trapping-rain-water-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0820-find-eventual-safe-states) |
@@ -965,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/1304-longest-happy-string) |
