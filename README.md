@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Amal-kallarakkal/Amals_repository/tree/master/3643-zero-array-transformation-ii) |
